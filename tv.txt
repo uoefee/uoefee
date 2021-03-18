@@ -1,0 +1,1305 @@
+﻿央视,#genre#
+CCTV-1蓝光,http://stream4.jlntv.cn/cctv1/sd/live.m3u8
+CCTV-1蓝光,http://121.31.30.87:8085/ysten-business/live/cctv-1/1.m3u8
+CCTV-1蓝光,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=29&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+CCTV-1蓝光,http://117.169.72.135:8080/PLTV/88888888/224/3221225618/index.m3u8
+CCTV-1蓝光,http://111.63.117.13:6060/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8
+CCTV-1蓝光,http://121.31.30.91:8081/ysten-business/live/hdcctv01/1.m3u8
+CCTV-1蓝光,http://125.210.152.18:9090/live/CCTV1HD_H265.m3u8
+CCTV-1蓝光,http://140.207.241.2:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
+CCTV-1蓝光,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+CCTV-2蓝光,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225747/index.m3u8
+CCTV-2蓝光,http://121.31.30.87:8085/ysten-business/live/cctv-2/1.m3u8
+CCTV-2蓝光,http://117.169.72.135:8080/PLTV/88888888/224/3221225631/index.m3u8
+CCTV-2蓝光,http://111.63.117.13:6060/030000001000/G_CCTV-2/G_CCTV-2.m3u8
+CCTV-2蓝光,http://121.31.30.91:8081/ysten-business/live/cctv-2/1.m3u8
+CCTV-3蓝光,http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+CCTV-3蓝光,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
+CCTV-3蓝光,http://121.31.30.91:8081/ysten-business/live/cctv-3/1.m3u8
+CCTV-3蓝光,http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+CCTV-3蓝光,http://117.169.72.135:8080/PLTV/88888888/224/3221225632/index.m3u8
+CCTV-4蓝光,http://111.63.117.13:6060/030000001000/CCTV-4/CCTV-4.m3u8
+CCTV-4蓝光,http://121.31.30.91:8081/ysten-business/live/cctv-4/1.m3u8
+CCTV-4蓝光,http://183.207.249.11/PLTV/3/224/3221225534/index.m3u8
+CCTV-4蓝光,http://221.6.85.150:9000/live/cctv4_800/cctv4_800.m3u8
+CCTV-4蓝光,http://121.31.30.87:8085/ysten-business/live/cctv-4/1.m3u8
+CCTV-4蓝光,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225590/index.m3u8
+CCTV-4蓝光,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=26&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+CCTV-5蓝光,http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
+CCTV-5蓝光,http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
+CCTV-5蓝光,http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
+CCTV-5蓝光,http://121.31.30.91:8081/ysten-business/live/cctv-5/1.m3u8
+CCTV-5蓝光,http://121.31.30.91:8081/ysten-business/live/cctv-5/1.m3u8
+CCTV-5蓝光,http://140.207.241.2:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
+CCTV-5蓝光,http://39.134.66.66/PLTV/88888888/224/3221225606/index.m3u8
+CCTV-5蓝光,http://121.31.30.87:8085/ysten-business/live/cctv-5/1.m3u8
+CCTV-6蓝光,http://121.31.30.91:8085/ysten-business/live/cctv-6/1.m3u8
+CCTV-6蓝光,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8
+CCTV-6蓝光,http://39.134.66.66/PLTV/88888888/224/3221225488/index.m3u8
+CCTV-6蓝光,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
+CCTV-6蓝光,http://111.63.117.13:6060/030000001000/CCTV-6/CCTV-6.m3u8
+CCTV-6蓝光,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
+CCTV-6蓝光,http://121.31.30.91:8081/ysten-business/live/cctv-6/1.m3u8
+CCTV-6蓝光,http://125.210.152.18:9090/live/CCTV6HD_H265.m3u8
+CCTV-6蓝光,http://140.207.241.2:8080/live/program/live/cctv6hd/4000000/mnf.m3u8
+CCTV-6蓝光,http://221.6.85.150:9000/live/cctv6_800/cctv6_800.m3u8
+CCTV-6蓝光,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
+CCTV-6蓝光,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+CCTV-7蓝光,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-7蓝光,http://111.63.117.13:6060/030000001000/CCTV-7/CCTV-7.m3u8
+CCTV-7蓝光,http://121.31.30.91:8081/ysten-business/live/cctv-7/1.m3u8
+CCTV-7蓝光,http://125.210.152.18:9090/live/CCTV7HD_H265.m3u8
+CCTV-7蓝光,http://221.6.85.150:9000/live/cctv7_800/cctv7_800.m3u8
+CCTV-8蓝光,http://121.31.30.91:8085/ysten-business/live/cctv-8/1.m3u8
+CCTV-8蓝光,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
+CCTV-8蓝光,http://111.63.117.13:6060/030000001000/G_CCTV-8/G_CCTV-8.m3u8
+CCTV-8蓝光,http://121.31.30.91:8081/ysten-business/live/cctv-8/1.m3u8
+CCTV-8蓝光,http://125.210.152.18:9090/live/CCTV8HD_H265.m3u8
+CCTV-8蓝光,http://140.207.241.2:8080/live/program/live/cctv8hd/4000000/mnf.m3u8
+CCTV-8蓝光,http://221.6.85.150:9000/live/cctv8_800/cctv8_800.m3u8
+CCTV-8蓝光,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+CCTV-9蓝光,http://39.135.135.30/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-9蓝光,http://111.63.117.13:6060/030000001000/G_CCTV-9/G_CCTV-9.m3u8
+CCTV-9蓝光,http://125.210.152.18:9090/live/CCTVJLHD_H265.m3u8
+CCTV-9蓝光,http://39.135.135.30/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10蓝光,http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
+CCTV-10蓝光,http://111.63.117.13:6060/030000001000/CCTV-10/CCTV-10.m3u8
+CCTV-10蓝光,http://121.31.30.91:8081/ysten-business/live/cctv-10/1.m3u8
+CCTV-10蓝光,http://140.207.241.2:8080/live/program/live/cctv10hd/4000000/mnf.m3u8
+CCTV-11蓝光,http://117.169.120.160:8080/live/cctv-11/1.m3u8
+CCTV-11蓝光,http://111.63.117.13:6060/030000001000/CCTV-11/CCTV-11.m3u8
+CCTV-11蓝光,http://121.31.30.91:8081/ysten-business/live/cctv-11/1.m3u8
+CCTV-12蓝光,http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+CCTV-12蓝光,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225598/index.m3u8
+CCTV-12蓝光,http://111.63.117.13:6060/030000001000/CCTV-12/CCTV-12.m3u8
+CCTV-12蓝光,http://121.31.30.91:8081/ysten-business/live/cctv-12/1.m3u8
+CCTV-12蓝光,http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+CCTV-13蓝光,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/index.m3u8
+CCTV-13蓝光,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-13蓝光,http://111.63.117.13:6060/030000001000/CCTV-13/CCTV_13.m3u8
+CCTV-13蓝光,http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
+CCTV-13蓝光,http://121.31.30.91:8081/ysten-business/live/cctv-13/1.m3u8
+CCTV-13蓝光,http://125.210.152.18:9090/live/CCTV13.m3u8
+CCTV-13蓝光,http://125.210.152.18:9090/live/CCTV13_750.m3u8
+CCTV-13蓝光,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-13蓝光,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+CCTV-13蓝光,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/index.m3u8
+CCTV-13蓝光,http://stream4.jlntv.cn/cctv13/sd/live.m3u8
+CCTV-14蓝光,http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
+CCTV-14蓝光,http://111.63.117.13:6060/030000001000/G_CCTV-14/G_CCTV_14.m3u8
+CCTV-14蓝光,http://121.31.30.91:8081/ysten-business/live/cctv-14/1.m3u8
+CCTV-14蓝光,http://140.207.241.2:8080/live/program/live/cctvsehd/4000000/mnf.m3u8
+CCTV-15蓝光,http://117.169.120.160:8080/live/cctv-15/1.m3u8
+CCTV-15蓝光,http://111.63.117.13:6060/030000001000/G_CCTV-15/G_CCTV-15.m3u8
+CCTV-15蓝光,http://121.31.30.91:8081/ysten-business/live/cctv-15/1.m3u8
+CCTV-17蓝光,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV-17蓝光,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
+CCTV-5+蓝光,http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
+CCTV-5+蓝光,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+CCTV-5+蓝光,http://121.31.30.91:8081/ysten-business/live/hdcctv05plus/1.m3u8
+CCTV-5+蓝光,http://140.207.241.2:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
+CCTV-5+蓝光,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+IPTV3+,http://39.134.39.37/PLTV/88888888/224/3221226265/index.m3u8
+IPTV5+,http://39.134.39.37/PLTV/88888888/224/3221226267/index.m3u8
+IPTV5+HD,http://39.134.39.37/PLTV/88888888/224/3221226273/index.m3u8
+IPTV6+,http://39.134.39.37/PLTV/88888888/224/3221226269/index.m3u8
+IPTV8+,http://39.134.39.37/PLTV/88888888/224/3221226271/index.m3u8
+IPTV谍战剧场,http://39.134.39.37/PLTV/88888888/224/3221226256/index.m3u8
+IPTV法治,http://39.134.39.37/PLTV/88888888/224/3221226258/index.m3u8
+IPTV相声小品,http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
+IPTV野外,http://39.134.39.37/PLTV/88888888/224/3221226262/index.m3u8
+CETV1,http://cctvksh5ca.v.kcdnvip.com/cstv/cetv1_2/index.m3u8
+CETV1,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226179/3.m3u8
+CETV2,http://cctvksh5ca.v.kcdnvip.com/cstv/cetv2_2/index.m3u8
+CETV3,http://cctvksh5ca.v.kcdnvip.com/cstv/cetv3_2/index.m3u8
+CETV4,http://cctvksh5ca.v.kcdnvip.com/cstv/cetv4_2/index.m3u8
+CGTN_环球国际,http://live.cgtn.com/1000/prog_index.m3u8
+卫视,#genre#
+北京卫视,http://111.13.42.43/PLTV/88888888/224/3221226160/3.m3u8
+北京卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=30&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+北京卫视,http://121.31.30.87:8085/ysten-business/live/hdbeijingstv/1.m3u8
+北京卫视,http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
+北京卫视,http://jxgz1.jilu8.cn/PLTV/88888888/224/3221225600/2/index.m3u8
+北京卫视,http://stream.cdjsxy.cn/bjws/sd/live.m3u8
+江苏卫视,http://121.31.30.87:8085/ysten-business/live/hdjiangsustv/1.m3u8
+江苏卫视,http://121.31.30.90:8085/ysten-business/live/hdjiangsustv/1.m3u8
+江苏卫视,http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
+江苏卫视,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226121/2.m3u8
+江苏卫视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229110/index.m3u8
+江苏卫视,http://112.17.40.140/PLTV/88888888/224/3221226414/index.m3u8
+上海都市台,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226141/3.m3u8
+上海外语台,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226136/3.m3u8
+上海卫视,http://121.31.30.87:8085/ysten-business/live/hddongfangstv/1.m3u8
+上海卫视,http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
+上海综合台,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225973/3.m3u8
+浙江卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=13&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+浙江卫视,http://121.31.30.87:8085/ysten-business/live/hdzhejiangstv/1.m3u8
+浙江卫视,http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/1.m3u8
+浙江卫视,http://125.210.152.18:9090/live/ZJWSHD_H265.m3u8
+浙江卫视,http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
+浙江卫视,http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
+浙江休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
+浙江影视,http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
+东南卫视,http://125.210.152.18:9090/live/DNWSHD_H265.m3u8
+东南卫视,http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
+动漫秀场,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225977/3.m3u8
+峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+福建卫视,http://121.31.30.87:8085/ysten-business/live/dongnanstv/1.m3u8
+福建卫视,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226154/3.m3u8
+福州综合台,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+甘肃卫视,http://101.71.255.229:6610/zjhs/2/10011/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+甘肃卫视,http://112.17.40.140/PLTV/88888888/224/3221226187/index.m3u8
+甘肃卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=142&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+甘肃卫视,http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8
+广东卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=43&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+广东卫视,http://121.31.30.90:8085/ysten-business/live/hdguangdongstv/1.m3u8
+广东卫视,http://125.210.152.18:9090/live/GDWSHD_H265.m3u8
+广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225736/index.m3u8
+广东卫视,http://112.17.40.140/PLTV/88888888/224/3221226225/index.m3u8
+广东珠江高清,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+广西卫视,http://101.71.255.229:6610/zjhs/2/10014/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+广西卫视,http://ivi.bupt.edu.cn/hls/gxhd.m3u8
+贵州卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=41&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+贵州卫视,http://125.210.152.18:9090/live/GZWSHD_H265.m3u8
+贵州卫视,http://ivi.bupt.edu.cn/hls/gzhd.m3u8
+海南卫视,http://101.71.255.229:6610/zjhs/2/10034/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+海南卫视,http://39.134.39.38/PLTV/88888888/224/3221226301/index.m3u8
+海南卫视,http://ivi.bupt.edu.cn/hls/lyhd.m3u8
+海南卫视,http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
+河北卫视,http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+河北卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=45&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+河北卫视,http://125.210.152.18:9090/live/HBWSHD_H265.m3u8
+河北卫视,http://live5.plus.hebtv.com/hbws/sd/live.m3u8
+河北卫视,http://weblive.hebtv.com/live/hbws_bq/index.m3u8
+河南卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=19&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+河南卫视,http://ivi.bupt.edu.cn/hls/hnhd.m3u8
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225640/index.m3u8
+黑龙江卫视,http://112.17.40.140/PLTV/88888888/224/3221226555/index.m3u8
+黑龙卫视,http://125.210.152.18:9090/live/HLJWSHD_H265.m3u8
+湖北卫视,http://121.31.30.87:8085/ysten-business/live/hdhubeistv/1.m3u8
+湖北卫视,http://121.31.30.90:8085/ysten-business/live/hdhubeistv/1.m3u8
+湖北卫视,http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
+湖南卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=6&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+湖南卫视,http://121.31.30.87:8085/ysten-business/live/hdhunanstv/1.m3u8
+湖南卫视,http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视,http://stream.cdjsxy.cn/hnws/sd/live.m3u8
+湖南卫视蓝光,http://112.17.40.140/PLTV/88888888/224/3221226553/index.m3u8
+欢笑剧场,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
+欢笑剧场,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226144/3.m3u8
+吉林卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=25&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+吉林卫视,http://125.210.152.18:9090/live/JLWSHD_H265.m3u8
+吉林卫视,http://player.200877926.top/hogejump/jilin.php?id=9
+吉林卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=25&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+江西卫视,http://121.31.30.87:8085/ysten-business/live/jiangxistv/1.m3u8
+江西卫视,http://125.210.152.18:9090/live/JXWSHD_H265.m3u8
+江西卫视,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226159/3.m3u8
+江西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
+江西卫视,http://112.17.40.140/PLTV/88888888/224/3221226557/index.m3u8
+康巴卫视,http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
+柯桥时尚台,http://live.scbtv.cn/hls/qfc/index.m3u8
+柯桥综合台,http://live.scbtv.cn/hls/news/index.m3u8
+辽宁卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
+辽宁卫视,http://125.210.152.18:9090/live/LNWSHD_H265.m3u8
+辽宁卫视,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226157/3.m3u8
+南方卫视,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
+南方卫视,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
+内蒙古蒙语,http://live5.m2oplus.nmtv.cn/3/sd/live.m3u8
+内蒙古农牧,http://live4.m2oplus.nmtv.cn/6/sd/live.m3u8
+内蒙古台,http://101.71.255.229:6610/zjhs/2/10035/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+内蒙古卫视,http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
+内蒙古娱乐,http://live4.m2oplus.nmtv.cn/8/sd/live.m3u8
+内蒙古综合,http://live4.m2oplus.nmtv.cn/7/sd/live.m3u8
+宁夏卫视,http://101.71.255.229:6610/zjhs/2/10036/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+宁夏卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=120&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+青海卫视,http://101.71.255.229:6610/zjhs/2/10038/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+青海卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=206&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+青海卫视,http://live.geermurmt.com/qhws/sd/live.m3u8
+三沙卫视,http://ivi.bupt.edu.cn/hls/sstv.m3u8
+山东卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=39&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+山东卫视,http://121.31.30.90:8085/ysten-business/live/hdshandongstv/1.m3u8
+山西卫视,http://101.71.255.229:6610/zjhs/2/10041/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+深圳卫视,http://101.71.255.229:6610/zjhs/2/10045/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+深圳卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=42&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+深圳卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=002&Provider_id=&Pcontent_id=index.m3u8
+深圳卫视,http://121.31.30.87:8085/ysten-business/live/hdshenzhenstv/1.m3u8
+深圳卫视,http://121.31.30.90:8085/ysten-business/live/hdshenzhenstv/1.m3u8
+深圳卫视,http://125.210.152.18:9090/live/SZWSHD_H265.m3u8
+深圳卫视,http://39.135.135.53/PLTV/88888888/224/3221225668/index.m3u8
+四川卫视,http://scgctvshow.sctv.com/scgc/sctv1deu5453w/1.m3u8
+四川影视,http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
+天津卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=37&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+天津卫视,http://121.31.30.87:8085/ysten-business/live/hdtianjinstv/1.m3u8
+天津卫视,http://121.31.30.90:8085/ysten-business/live/hdtianjinstv/1.m3u8
+天津卫视,http://125.210.152.18:9090/live/TJWSHD_H265.m3u8
+天津卫视,http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
+天津卫视,http://112.17.40.140/PLTV/88888888/224/3221226412/index.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+云南公共台,http://39.130.215.166:6410/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8
+云南卫视,http://101.71.255.229:6610/zjhs/2/10054/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+云南卫视,http://hwzbout.yunshicloud.com/8xughf/e0bx15.m3u8
+安徽卫视,http://125.210.152.18:9090/live/AHWSHD_H265.m3u8
+安徽卫视,http://182.138.51.71/PLTV/88888920/224/3221225595/index.m3u8
+安徽卫视,http://zbbf2.ahtv.cn/live/749.m3u8
+炫動卡通,http://125.210.152.18:9090/live/XDKT.m3u8
+央視文化精品,http://125.210.152.18:9090/live/YSWHJP.m3u8
+優漫卡通,http://125.210.152.18:9090/live/YMKT.m3u8
+優優寶貝,http://125.210.152.18:9090/live/YYBB.m3u8
+世界地理,http://125.210.152.18:9090/live/SJDL.m3u8
+收藏天下,http://125.210.152.18:9090/live/SCTX.m3u8
+衛生健康,http://125.210.152.18:9090/live/WSJK.m3u8
+金鷹卡通,http://125.210.152.18:9090/live/JYKT.m3u8
+快樂垂釣,http://125.210.152.18:9090/live/KLCD.m3u8
+懷舊劇場,http://125.210.152.18:9090/live/HJJC.m3u8
+國防軍事,http://125.210.152.18:9090/live/GFJS.m3u8
+風雲劇場,http://125.210.152.18:9090/live/FYJC.m3u8
+風雲音樂,http://125.210.152.18:9090/live/FYYY.m3u8
+風雲足球,http://125.210.152.18:9090/live/FYZQ.m3u8
+發現之旅,http://125.210.152.18:9090/live/FXZL.m3u8
+兵團衛視,http://125.210.152.18:9090/live/BTWS.m3u8
+茶頻道,http://125.210.152.18:9090/live/CPD.m3u8
+第一劇場,http://125.210.152.18:9090/live/DYJC.m3u8
+電子體育,http://125.210.152.18:9090/live/DZTY.m3u8
+科目二,#genre#
+1倒车入库001,https://maiche.jmtv.com.cn/2020/10/27/ca4d92e47f2848c98dfdb8dfee36e195.high.mp4
+2侧方位停车002,https://maiche.jmtv.com.cn/2020/10/27/eeebb8c77a264dbda89d8e3aa248c41a.high.mp4
+3坡道定点停车与起步003,https://maiche.jmtv.com.cn/2020/10/27/c09341783ae6486eb94df587eeabc22a.high.mp4
+4曲线行驶004,https://maiche.jmtv.com.cn/2020/10/27/67887c48d2c74659bb3cb880bc8ca145.high.mp4
+5直接转弯005,https://maiche.jmtv.com.cn/2020/10/27/a39720d37d3743098c163c5498fb7b77.high.mp4
+模拟窄路掉头006,https://maiche.jmtv.com.cn/2019-01-28/a789ac08eb0d4a97a4ad052e0bed5b04.high.mp4
+模拟紧急情况007,https://maiche.jmtv.com.cn/2019-01-28/26b53d64f6c44aaab0fc84e03074ad91.high.mp4
+模拟隧道行驶008,https://maiche.jmtv.com.cn/2019-01-28/aea0ba1091904034b42f625955770363.high.mp4
+模拟高速公路停车取卡009,https://maiche.jmtv.com.cn/2019-01-28/cdd0c6f9bbf94524bf9edea7d5a9face.high.mp4
+考试语音全程,https://vd4.bdstatic.com/mda-kfh57inv33w3cwm0/mda-kfh57inv33w3cwm0.mp4?v_from_s=nj_videoui_4135&auth_key=1616048009-0-0-101cd6fb20698b46e4c3f7227e93374c&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=8_1
+科目三,#genre#
+模拟夜间场景灯光使用,https://maiche.jmtv.com.cn/2019-03-19/c673ede2ffc8408389ad0b708936cfc0.high.mp4
+1上车步骤,https://maiche.jmtv.com.cn/2019-03-19/6d241ce036634ca9a0a6e2f88a9a9946.high.mp4
+2起步,https://maiche.jmtv.com.cn/2019-03-19/3c8001decae84342bc6d1bcefb71f6be.high.mp4
+3直线行驶,https://maiche.jmtv.com.cn/2019-03-19/a0fc6a66abbe4d27a2f6a490a8429734.high.mp4
+4变更车道,https://maiche.jmtv.com.cn/2019-03-19/6a67cc50e20549f8b4303ffed9e298b7.high.mp4
+5通过路口,https://maiche.jmtv.com.cn/2019-03-19/c4648ad18dc44948b19df92409696ebc.high.mp4
+6加减档,https://maiche.jmtv.com.cn/2019-03-19/863c9747523943079be2a7577eab032c.high.mp4
+7路口左转弯,https://maiche.jmtv.com.cn/2019-03-19/e4c536abc7134e58b9833d405c06ba6e.high.mp4
+8路口右转弯,https://maiche.jmtv.com.cn/2019-03-19/bd7b8394ce7e4bd98f829cdbf563e481.high.mp4
+9会车,https://maiche.jmtv.com.cn/2019-03-19/93999124544e4270837b79b96d581a02.high.mp4
+10超车,https://maiche.jmtv.com.cn/2019-03-19/ea8f3299f4ba4ead8cdab54524fd57ee.high.mp4
+11掉头,https://maiche.jmtv.com.cn/2019-03-19/05627606ebd24ab1a8cd6f858a919c46.high.mp4
+12路边停车,https://maiche.jmtv.com.cn/2019-03-19/694e548e8937479bbb72881bc46db5c9.high.mp4
+13通过人行横道,https://maiche.jmtv.com.cn/2019-03-19/f6dd8c92083a41d0905f778569db2289.high.mp4
+14通过学校区域,https://maiche.jmtv.com.cn/2019-03-19/1887c6db5ebb4e6eb023f1019bb6ff63.high.mp4
+15通过公共汽车站,https://maiche.jmtv.com.cn/2019-03-19/fd826e2d43e943f59c14aec8af3d224c.high.mp4
+全过程,https://maiche.jmtv.com.cn/2019-03-26/df155aa502ca4ef4a38ddd811c410795.high.mp4
+车轮科3,http://kjzvideo.eclicks.cn/3/small_jktv720/wzb.mp4
+
+体育,#genre#
+PP体育1HD,http://39.134.39.37/PLTV/88888888/224/3221226100/index.m3u8
+PP体育2HD,http://39.134.39.37/PLTV/88888888/224/3221226104/index.m3u8
+PP体育3HD,http://39.134.39.37/PLTV/88888888/224/3221226106/index.m3u8
+PP体育4HD,http://39.134.39.37/PLTV/88888888/224/3221226108/index.m3u8
+PP体育5HD,http://39.134.39.37/PLTV/88888888/224/3221226110/index.m3u8
+PP体育6HD,http://39.134.39.37/PLTV/88888888/224/3221226112/index.m3u8
+PP体育7HD,http://39.134.39.37/PLTV/88888888/224/3221226121/index.m3u8
+PP体育8HD,http://39.134.39.37/PLTV/88888888/224/3221226123/index.m3u8
+PP体育9HD,http://39.134.39.37/PLTV/88888888/224/3221226125/index.m3u8
+PP体育10HD,http://39.134.39.37/PLTV/88888888/224/3221226132/index.m3u8
+PP体育11HD,http://39.134.39.37/PLTV/88888888/224/3221226188/index.m3u8
+百视通体育1HD,http://39.134.39.37/PLTV/88888888/224/3221226130/index.m3u8
+百视通体育2HD,http://39.134.39.37/PLTV/88888888/224/3221226136/index.m3u8
+百视通体育3HD,http://39.134.39.37/PLTV/88888888/224/3221226138/index.m3u8
+百视通体育4HD,http://39.134.39.37/PLTV/88888888/224/3221226141/index.m3u8
+百事通体育5HD,http://39.134.39.37/PLTV/88888888/224/3221226145/index.m3u8
+百视通体育6HD,http://39.134.39.37/PLTV/88888888/224/3221226146/index.m3u8
+百视通体育7HD,http://39.134.39.37/PLTV/88888888/224/3221226147/index.m3u8
+百视通体育8HD,http://39.134.39.37/PLTV/88888888/224/3221226149/index.m3u8
+百视通体育9HD,http://39.134.39.37/PLTV/88888888/224/3221226153/index.m3u8
+咪咕视频1,http://39.134.39.37/PLTV/88888888/224/3221226196/index.m3u8
+咪咕视频2,http://39.134.39.37/PLTV/88888888/224/3221226215/index.m3u8
+咪咕视频3,http://39.134.39.37/PLTV/88888888/224/3221226217/index.m3u8
+咪咕视频4,http://39.134.39.37/PLTV/88888888/224/3221226219/index.m3u8
+咪咕视频5,http://39.134.39.37/PLTV/88888888/224/3221226221/index.m3u8
+咪咕视频6,http://39.134.39.37/PLTV/88888888/224/3221226223/index.m3u8
+咪咕视频7,http://39.134.39.37/PLTV/88888888/224/3221226224/index.m3u8
+咪咕视频8,http://39.134.39.37/PLTV/88888888/224/3221226225/index.m3u8
+咪咕视频9,http://39.134.39.37/PLTV/88888888/224/3221226227/index.m3u8
+咪咕视频10,http://39.134.39.37/PLTV/88888888/224/3221226229/index.m3u8
+咪咕视频11,http://39.134.39.37/PLTV/88888888/224/3221226102/index.m3u8
+咪咕视频12,http://39.134.39.37/PLTV/88888888/224/3221226190/index.m3u8
+五星体育HD,http://39.134.39.37/PLTV/88888888/224/3221226178/index.m3u8
+劲爆体育HD,http://39.134.39.37/PLTV/88888888/224/3221226170/index.m3u8
+极速汽车HD,http://39.134.39.37/PLTV/88888888/224/3221226195/index.m3u8
+足球,http://39.134.39.37/PLTV/88888888/224/3221226291/index.m3u8
+地方台,#genre#
+浙江轻纺城时尚,http://live.scbtv.cn/hls/qfc/index.m3u8
+浙江剧,http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
+浙江钱江,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+HTV 综合,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
+HTV 明珠,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
+北京文艺,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+北京东奥,http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8
+北京青年,http://ivi.bupt.edu.cn/hls/btv8.m3u8#http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227436/index.m3u8
+北京生活,http://ivi.bupt.edu.cn/hls/btv7.m3u8
+北京新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
+北京影视,http://ivi.bupt.edu.cn/hls/btv4.m3u8
+福州综合,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+福州生活,http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
+福州生活,http://ls.qingting.fm/live/1862.m3u8
+南京生活,http://live.nbs.cn/channels/njtv/shpd/flv:500k/live
+杭州1综合,http://117.148.187.37/PLTV/88888888/224/3221226170/index.m3u8
+杭州HTV-1,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
+杭州HTV-2,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
+杭州HTV-3,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
+杭州HTV-4,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
+杭州HTV-5,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
+港澳台,#genre#
+KiX HD,http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
+NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+TVB翡翠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+TVB翡翠,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+TVB翡翠,mitv://147.135.39.171:9906/5ea51995000ec10eda81021569fa53dc.ts
+TVB明珠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+TVB明珠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1,tvming-XGMingZhu
+TVB明珠,mitv://147.135.39.171:9906/5defe1400004ed256eba461e3fa17ad5.ts
+TVB星河,mitv://147.135.39.171:9906/5ea53a9a000d39fddb01fd3f19aa567e.ts
+有线直播,mitv://147.135.39.171:9906/5ef4ecd400015d191252b914239a34f8.ts
+有线财经,mitv://147.135.39.171:9906/5ead19e0000c2946f9c238242b751a54.ts
+VIUTV,mitv://147.135.39.171:9906/5d9a2e7b000d28609cc0d68b68a05dd1.ts
+凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+凤凰电影,rtmp://58.200.131.2:1935/livetv/fhdy#rtmp://58.200.131.2/livetv/fhdy
+亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+亚洲电视,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo_720p.m3u8
+亚视本港,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+有线603,mitv://147.135.39.171:9906/5ef4ecd300091a2f1252b72006d82fc2.ts
+有线体育,mitv://147.135.39.171:9906/5ea539e900076757daff48514c4e1e96.ts
+有线体育Plus1 ,mitv://147.135.39.171:9906/5ea539ea00007ceadaff4a743a176aa1.ts
+有线体育Plus2,mitv://147.135.39.171:9906/5ef4ecd40007934c1252baaa5c8b564e.ts
+有线娱乐,mitv://147.135.39.171:9906/5e73be6500011d2f19b464df5ab64e5b.ts
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱海外台,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+中牟综合,http://live.dxhmt.cn:9081/tv/10122-1.m3u8
+TVBS新闻,mitv://147.135.39.171:9906/5ea4852100052c6fd83d1a840a5e74b2.ts
+TLC旅游,mitv://147.135.39.171:9906/5cc692b800066481faf4b217169a5a1b.ts
+壹综合,mitv://147.135.39.171:9906/5ee385f50006a708ce58bfde6dca70d4.ts
+民视新闻,mitv://147.135.39.171:9906/5ea522940007279ddaa4243912175fe1.ts
+中天娱乐,mitv://147.135.39.171:9906/5defdaa0000974136ea066475c980b2d.ts
+中天新闻,mitv://147.135.39.171:9906/5d9a3461000c5e329cd7e0cc2586313a.ts
+中天亚洲,mitv://147.135.39.171:9906/5defdaa000044ff26ea064ef7ec56d18.ts
+三立新闻,mitv://147.135.39.171:9906/5ea13bb00007ef12cb662788049d46cf.ts
+东森综合,mitv://147.135.39.171:9906/5eb29b860006eefb0f44a74c7d3950ab.ts
+东森新闻,mitv://147.135.39.171:9906/5f167315000ed32216f8c32859024c90.ts
+东森亚洲,mitv://147.135.39.171:9906/5ede6859000be2b3ba5d17d529f60875.ts
+东森财经,mitv://147.135.39.171:9906/5eec88f90004b79cf18c98952f812d55.ts
+东森电影,mitv://147.135.39.171:9906/5defe13e0007d9d56eba3f090a5f5661.ts
+东森洋片,mitv://147.135.39.171:9906/5ea13baf000efb4ecb66256578d5166f.ts
+东森戏剧,mitv://147.135.39.171:9906/5eb29b86000c614d0f44a8b302d67a7e.ts
+纬来综合,mitv://147.135.39.171:9906/5e9e6e69000b4094c0744b0b13c15289.ts
+纬来戏剧,mitv://147.135.39.171:9906/5dfb22fe0007e7e5170148dc58a73c8f.ts
+纬来电影,mitv://147.135.39.171:9906/5e9b449a00082550b418f99837b132a5.ts
+纬来日本,mitv://147.135.39.171:9906/5e9b449a0002edbbb418f850343a565d.ts
+纬来育乐,mitv://147.135.39.171:9906/5e9e72fe00062f43c0862fbb1fb33e3f.ts
+纬来体育,mitv://147.135.39.171:9906/5e9b4499000c2343b418f6ba6f8227e4.ts
+八大综合,mitv://147.135.39.171:9906/5e9e749a000d3deac08c7af061bf4966.ts
+八大第一,mitv://147.135.39.171:9906/5e9e749b00040aaac08c7c7774062e4f.ts
+八大娱乐,mitv://147.135.39.171:9906/5e9e749b00099094c08c7dde5ba80b06.ts
+八大戏剧,mitv://147.135.39.171:9906/5e9e749a0007249ec08c795a648451d4.ts
+寰宇新闻,mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
+龙祥时代,mitv://147.135.39.171:9906/5e7cf98e000cd16b3dc38ae278e073ec.ts
+龙华电影,mitv://147.135.39.171:9906/5e975a5100046cd4a4cdb96549212d2b.ts
+卫视卡式,mitv://147.135.39.171:9906/5ec62ecd0005c21e5bbc173f4d127405.ts
+卫视西片,mitv://147.135.39.171:9906/5ea1e2fc000b1e57cdf3a933489b3aee.ts
+卫视中文,mitv://147.135.39.171:9906/5defdaa1000b1a3d6ea06a9c17f77c44.ts
+卫视电影,mitv://147.135.39.171:9906/5d9a250b000845289c9bf7d246ac3362.ts
+卫视电影,mitv://147.135.39.171:9906/5ec628ed000d69cb5ba526333d1a1d98.ts
+有线电影,mitv://147.135.39.171:9906/5f15d56b0009f5ef1490e1e012d438e5.ts
+探索频道,rtmp://58.200.131.2:1935/livetv/discovery
+探索频道,https://www.fanmingming.cn/hls/discovery.m3u8
+探索频道,mitv://147.135.39.171:9906/5ea13fde000ec14fcb767cee2fe05289.ts
+探索动力,mitv://147.135.39.171:9906/5e9b4b11000d8f76b4323bd8404c1e97.ts
+探索亚洲,mitv://147.135.39.171:9906/5ea13bb1000a50e9cb662c0c47e9549f.ts
+探索科学,mitv://147.135.39.171:9906/5ea13fe1000b88c3cb7687db43d01a4a.ts
+国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
+国家地理,https://www.fanmingming.cn/hls/natlgeo.m3u8
+地理频道,mitv://147.135.39.171:9906/5ea13fdf0004d36ecb767e555c896a66.ts
+地理野生,mitv://147.135.39.171:9906/5ea13fdf000c8069cb7680495d882a82.ts
+地理悠人,mitv://147.135.39.171:9906/5ea1441e000473decb87144e4b600a26.ts
+好莱坞,mitv://147.135.39.171:9906/5e7cf98e0006ee193dc3896b4e817161.ts
+美亚电影,mitv://147.135.39.171:9906/5e7cf98e00020cab3dc388220eeb0f7e.ts
+华纳电影,mitv ://147.135.39.171:9906/5defdaa0000d7e3f6ea0675076d26f43.ts
+国兴卫视,mitv://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts
+Channel V,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+纬来戏剧,mitv://147.135.39.171:9906/5dfb22fe0007e7e5170148dc58a73c8f.ts
+纬来综合,mitv://147.135.39.171:9906/5e9e6e69000b4094c0744b0b13c15289.ts
+纬来电影,mitv://147.135.39.171:9906/5e9b449a00082550b418f99837b132a5.ts
+纬来育乐,mitv://147.135.39.171:9906/5e9e72fe00062f43c0862fbb1fb33e3f.ts
+纬来日本,mitv://147.135.39.171:9906/5e9b449a0002edbbb418f850343a565d.ts
+纬来体育,mitv://147.135.39.171:9906/5e9b4499000c2343b418f6ba6f8227e4.ts
+中天新闻,mitv://147.135.39.171:9906/5eec7db90008195bf160a77f5d316f05.ts
+中天综合,mitv://147.135.39.171:9906/5e7cf98b000f2c2a3dc37fc6663e2451.ts
+中天娱乐,mitv://147.135.39.171:9906/5defdaa0000974136ea066475c980b2d.ts
+TVBS新闻,mitv://147.135.39.171:9906/5ea4852100052c6fd83d1a840a5e74b2.ts
+超级New,#genre#
+求索纪录,http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
+求索科学,http://125.210.152.18:9090/live/QSKX_1200.m3u8
+求索动物,http://125.210.152.18:9090/live/QSDW_1200.m3u8
+求索生活,http://125.210.152.18:9090/live/QSSH_1200.m3u8
+中国教育1台,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
+黑莓电影,http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
+黑莓动画,http://112.17.40.140/PLTV/88888888/224/3221226654/index.m3u8
+黑莓电竞,http://112.17.40.140/PLTV/88888888/224/3221226724/index.m3u8
+明星大片,http://121.31.30.91:8081/ysten-business/live/mingxingdp/1.m3u8
+金牌综艺,http://121.31.30.91:8081/ysten-business/live/saishijx/1.m3u8
+精品体育,http://121.31.30.91:8081/ysten-business/live/jtiyu/1.m3u8
+精品大剧,http://121.31.30.91:8081/ysten-business/live/jdaju/1.m3u8
+精品电影,http://121.31.30.91:8081/ysten-business/live/jdianying/1.m3u8
+海外剧场,http://121.31.30.91:8081/ysten-business/live/xiqumd/1.m3u8
+爱情喜剧,http://121.31.30.91:8081/ysten-business/live/aiqingxj/1.m3u8
+古装剧场,http://121.31.30.91:8081/ysten-business/live/guzhuangjc/1.m3u8
+惊悚悬疑,http://121.31.30.91:8081/ysten-business/live/jingsongxy/1.m3u8
+精品记录,http://121.31.30.91:8081/ysten-business/live/jingpinjl/1.m3u8
+军事评论,http://121.31.30.91:8081/ysten-business/live/junshipl/1.m3u8
+农业致富,http://121.31.30.91:8081/ysten-business/live/nongyezf/1.m3u8
+健康有约,http://121.31.30.91:8081/ysten-business/live/ljiankangyouyue/1.m3u8
+爱奇艺,#genre#
+爱电竞,http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱都市,http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱江湖,http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱解密,http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱经典,http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱军武,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱科幻,http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱历史,http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱美食,http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱奇谈,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱时尚,http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱世界,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱玩具,http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱幼教,http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱院线,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱青春,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
+爱家庭,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
+爱探索,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
+爱科学,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
+爱猎奇,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
+爱谍战,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
+爱娱乐,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
+爱旅行,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+爱怀旧,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
+爱体育,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
+爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
+爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
+北京少儿,http://ivi.bupt.edu.cn/hls/btv10.m3u8
+动漫电影,http://112.17.40.140/PLTV/88888888/224/3221226178/index.m3u8
+影视轮播,#genre#
+求索1,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+求索2,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+求索3,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+求索4,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
+best电影1,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+best电影2,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+best动画,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+KiD动画,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+kk金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+SiTV动漫秀场 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
+SiTV欢笑剧场 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
+SiTV极速汽车 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
+SiTV极速汽车 7.5M1080,http://39.134.39.39/PLTV/88888888/224/3221226310/index.m3u8
+SiTV劲爆体育 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226170/index.m3u8
+SiTV游戏风云 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226187/index.m3u8
+SiTV游戏风云 7.5M1080,http://39.134.39.39/PLTV/88888888/224/3221226337/index.m3u8
+电影 2K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
+峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8#http://scgctvshow.sctv.com/hdlive/emei/index.m3u8
+海爷TV9号厅,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/141477/live_82436982_2406441.m3u8
+海爷TV动作,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/366214/live_199793349_7660540.m3u8
+海爷TV小新,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/293317/live_255137759_7132099.m3u8
+歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
+亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
+YY女鬼相親,http://106.54.30.243/dl/YY.php?t=24066336
+YY鬼片500部,http://106.54.30.243/dl/YY.php?t=1353059120
+YY歐美科幻電影,http://106.54.30.243/dl/YY.php?t=37988782
+YY经典动作片,http://tx.hls.huya.com/huyalive/1199548668327-1199548668327-5380703859851132928-2399097460110-10057-A-0-1.m3u8?wsSecret=38f4bc5fdc33509b8e6bc098f35d1bcc&wsTime=5f352e83&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103
+老电影,#genre#
+51号兵站,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fa6557276d644b5ea399956a6bf94e59/850.m3u8
+宝葫芦的秘密,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/866474add7224067877bed430d9380ab/850.m3u8
+冰山上的来客,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c86d45b176d642738dabf9da7361653b/850.m3u8
+大气层消失,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/45122e56521f49b68020e3e66bc28ce8/850.m3u8
+地道战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/312e39c68cc441feb79d1c2d7e16cbbd/850.m3u8
+地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
+地下尖兵,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/188d5706e5774f06850e06e4f181c4bd/850.m3u8
+董存瑞,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b657281ba44a4b279f55ec860c12543b/850.m3u8
+渡江侦察记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d708e9c64aa34519af5490a793756c38/850.m3u8
+跟踪追击,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/059096230b4e46c0b5d4929ff98435d0/850.m3u8
+海鹰,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/00f88e15028648cab76156c5635effe2/850.m3u8#http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/412ae4c1c5fe4150a14197c437391fe2/850.m3u8
+红孩子,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/bf55b84744d64eeaaedc5ea603855597/850.m3u8
+红牡丹,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/921b8081b58b4c2f81fb233b6c8e89ac/850.m3u8
+红日,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f2ee6e22cd894be1bc8c90b19f47ae2e/850.m3u8
+红色娘子军,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2ea3b03b3a414303b830f92579243001/850.m3u8
+洪湖赤卫队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2a58afdece3342eaac927648a2cccabd/850.m3u8
+花儿朵朵,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/53a44d8649024b58b69f4468b922b8f0/850.m3u8
+鸡毛信,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/41fcf9fefcf247c78e2d64c7af5d6edd/850.m3u8
+举起手来-追击阿多丸,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/a1093561ad0a4071b68eeae884de01e7/850.m3u8
+苦菜花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ec47d310d888464f8446af5e6e04ded8/850.m3u8
+狼牙山五壮士,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/71c649af833c43a9b61e4f5c913bbd6b/850.m3u8
+李双双,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bac928d747984ed3bd17550879522f89/850.m3u8
+刘三姐,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/680e102dc8614632862cf49a236def6e/850.m3u8
+柳堡的故事,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/706b979b8a934aaab677a11c410bb119/850.m3u8
+马兰花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c89d105b9661464bb8c5c5f46977f6c4/850.m3u8
+南征北战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9557e1bfd91b4319975dfeffcc44d6b7/850.m3u8
+霹雳贝贝,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7accc94d5590415284af5db904e4be5a/850.m3u8
+平原游击队,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/180ef18dec9a4edeb9d2b520d57cfc7f/850.m3u8
+奇袭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ac8b28fb66104aa7a5e3cd5a10ea986b/850.m3u8
+前哨,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e9c4ffe4002492484c0f50235299759/850.m3u8
+泉水叮咚,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8b039f6988a04ca8b086d35031a77204/850.m3u8
+犬王,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/08d97be6d296434098297a505e2f05b5/850.m3u8
+赛虎,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/34505162ca0848af9e23d33ed4018088/850.m3u8
+三进山城,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ee157540ff2540ada0250edf3f6a3e0a/850.m3u8
+三毛从军记,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/919a08437d44499b87b7b4903f2b2ae6/850.m3u8
+三毛流浪记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b9ce94c233b043bebe30340f09868ed1/850.m3u8
+闪闪的红星,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b90fcf1a5425479baf3a045282a1f263/850.m3u8
+上甘岭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c91f7aae9b8b4c578a7d9ecdf94b9dca/850.m3u8
+少林寺,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8
+神秘的旅伴,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef95b9f13e2c47b882b67ef52139786a/850.m3u8
+特别攻击队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c69eed95a2cd4752850bcac109151e37/850.m3u8
+铁道游击队,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/46d8664dacad4dbb9c790256688048dc/850.m3u8
+突破乌江,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bf8ccfff8bc949a6a2ed6bcda45eb4e2/850.m3u8
+五朵金花,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ae639196cf3949368c1b05776bb1d4fa/850.m3u8
+小兵张嘎,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d8c05f3ca36d48e6b1997b523e885c5c/850.m3u8
+小花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f97fb71bff5947ddaf905cc121c42ee4/850.m3u8
+羊城暗哨,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/215e7a6713884bcab8cc461e245531af/850.m3u8
+英雄儿女,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/479d044b7a3d465fa3a5b850d36b219c/850.m3u8
+英雄虎胆,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b7fcd0d4ebb045fe8e653ee71b4ef8fc/850.m3u8
+战火中的青春,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/be0d797e3b494f5fa1cb6d48d29643f3/850.m3u8
+战上海,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/e84b188d1bf7484fb4907d99827cbd45/850.m3u8
+侦察兵,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3e4727a0fca34aa8b9774472a4908eaf/850.m3u8
+智取华山,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ef243e3fa20544df9cc24b72ace8efa0/850.m3u8
+祖国的花朵,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef10a9a9b1534fe38fd4fdfdac1ed493/850.m3u8
+大闹天宫,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a57c9e5e1696486e97d229a3ddb13749/850.m3u8
+航拍中国,#genre#
+①江西,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
+①海南,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/ebc22b913d104ccfb153dc09850e0486/4000.m3u8
+①上海,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/3e5279df88b44cb7933157330f967490/4000.m3u8
+①黑龙江,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/1199803974fe4361980f8e764d94c607/4000.m3u8
+①陕西,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/c698d3595f504fd09044e0b6615040f0/4000.m3u8
+①新疆,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/611dfd08172c4e3082289d6d33db4df4/4000.m3u8
+②江苏,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/b1e17e11d274467db1ace20e1534a953/4000.m3u8
+②四川,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/9e9b2ec70cca4cdc917672cb1e44bb01/4000.m3u8
+②福建,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/8ba642c716404cf59a87f20ef9fc54a3/4000.m3u8
+②广东,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/d907ef756138493e9fe5b35b4ab69642/4000.m3u8
+②甘肃,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/1d627277720b4c4698ce58d4d2edb3b5/4000.m3u8
+②内蒙古,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
+②浙江,https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/cc46d0edb5974d9bb744a009edc9c01a/4000.m3u8
+③河北,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/a677ef50dc0f43c18f4ce0c53cdc8795/main.m3u8?maxbr=2048&minbr=400
+③云南,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/dc534f3d3730442a8b50334424ec2c78/main.m3u8?maxbr=2048&minbr=400
+③安徽,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/67c4d1c8265b45898a455f4dbaf17680/main.m3u8?maxbr=2048&minbr=400
+③贵州,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/5f0f1548cb8a4018be1921b24187f2e8/main.m3u8?maxbr=2048&minbr=400
+③山东,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/5ef3a7ab95984c6eb2b7aaca77a26eac/main.m3u8?maxbr=2048&minbr=400
+③天津,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/5f03d9f1684241f696b25a19ffc44145/main.m3u8?maxbr=2048&minbr=400
+③湖南,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/f5d8f71d90dd480599c0a36a26db3101/main.m3u8?maxbr=2048&minbr=400
+③山西,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/f1609a418f444f1ca0f9b8441d7a49fe/main.m3u8?maxbr=2048&minbr=400
+③吉林,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/7736ba0a79a94bdb83abef7ca0843c35/main.m3u8?maxbr=2048&minbr=400
+③宁夏,https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/163c971a8ec44f0ba5dd1dc3ddffb8d7/main.m3u8?maxbr=2048&minbr=400
+黟县宏村月沼,https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+黟县宏村南湖,https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
+黟县西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
+黟县西递半山亭俯瞰,https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8?contentid=2820180516001
+黄山卧云峰,https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
+黄山排云亭,https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
+黄山西海大峡谷,https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
+黄山平天矼,https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
+云台山红石硖,https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8?contentid=2820180516001
+泰山主峰,https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
+泰山迎客松,https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8?contentid=2820180516001
+泰山大观峰,https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
+泰山拱北石,https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
+泰山十八盘,https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
+泰山玉皇顶,https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
+印象大红袍,https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8?contentid=2820180516001
+武夷山大红袍茶园,https://gctxyc.liveplay.myqcloud.com/gc/wysdhpcy_1/index.m3u8?contentid=2820180516001
+张家界将军列队,https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
+张家界阿凡达悬浮山,https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8?contentid=2820180516001
+水长城镜头一,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
+水长城镜头二,https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
+大研花巷景观台,https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8?contentid=2820180516001
+峨眉云海日出,https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8?contentid=2820180516001
+贡嘎雪山,https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
+远眺万佛顶,https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8?contentid=2820180516001
+普贤菩萨像,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
+悬空寺全景,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
+恒宗,https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8?contentid=2820180516001
+悬空寺侧景,https://gcalic.v.myalicdn.com/gc/hsxkscj_1/index.m3u8?contentid=2820180516001
+天涯鸟瞰,https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8?contentid=2820180516001
+天涯石,https://gctxyc.liveplay.myqcloud.com/gc/tyhjtys_1/index.m3u8?contentid=2820180516001
+南天一柱,https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
+雪乡大石碑,https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
+雪乡梦幻家园,https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
+嘉峪关长城,https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
+中央电视台中塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
+中央电视台中塔北,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001  
+日本亚洲,#genre#
+NTV News 24,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+Japanet DX Channel,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+日本NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+日本Jupiter,https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
+日本FMN,http://host02.media-gather.jp/_media__mg00009kj5c_live/_definst_/1359071597_3874/playlist.m3u8
+Japanet DX Channel,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+欧美,#genre#
+CNN,http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+CBSN,mitv://147.135.39.171:9906/5eea255d000cf269e837815842dd5862.ts
+CBSN,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+Bloomberg,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+Bloomberg,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+Bloomberg,mitv://147.135.39.171:9906/5defdaa10006c0ed6ea069831b9a2ab0.ts
+美国狗狗宠物,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+美国中国环球 (美国),http://live.cgtn.com/1000/prog_index.m3u8
+法国24台英语,http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
+法国24台法语,http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+法国24台英语,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+法国24台英语,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+俄罗斯Hope,https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u8
+俄罗斯ТВTV蓝光,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+越南和平HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+越南ktv,http://210.245.20.94/hls/ktv1.m3u8
+蒙古国lMNB,http://103.14.38.107:1935/live/mnb.stream/master.m3u8
+CGTN Documentary,https://livedoc.cgtn.com/500d/prog_index.m3u8
+CGTN Русский,http://liveru.cgtn.com/1000r/prog_index.m3u8
+会员一区_0518,#genre#
+松视3台,p5p://0818.02686.cc:20012/5f3f2cc700001f430a46d433c00cd7cd.ts
+松视2台,p5p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e.ts
+松视1台,p5p://0818.02686.cc:20012/5f3f2c2b000f126c0a4476a7dee5d96c.ts
+K频道,p5p://0818.02686.cc:20012/5f3f2b9e0005cb370a424d7f07df7156.ts
+彩虹MOIVE,p5p://0818.02686.cc:20012/5f3f2b350002131a0a40b263a63e9fdf.ts
+彩虹e台,p5p://0818.02686.cc:20012/5f3f2a7800019ef50a3dcffdb1daa619.ts
+HOT,p5p://0818.02686.cc:20012/5f3f2a31000938130a3cbc97aa35e26d.ts
+HAPPY,p5p://0818.02686.cc:20012/5f3f298b000350920a3a32a46e3f183f.ts
+潘多拉玩美,p5p://0818.02686.cc:20012/5f3f278f00023acc0a3271fd50ba8d23.ts
+潘多拉粉红,p5p://0818.02686.cc:20012/5f3f26e00005c41d0a2fc74dc6d2ac31.ts
+惊艳成人电影台,p5p://0818.02686.cc:20012/5f3f25da000e99280a2bca20680560c2.ts
+香蕉台,p5p://0818.02686.cc:20012/5f3f24c1000af48d0a277f8997de9d5f.ts
+松视1台,p5p://0818.02686.cc:20012/5f3f2c2b000f126c0a4476a7dee5d96c.ts
+松视2台,p5p://0818.02686.cc:20012/5f3f2d57000388660a4907928a6b1097.ts
+松视3台,p5p://0818.02686.cc:20012/5f3f2cc700001f430a46d433c00cd7cd.ts
+K频道,p5p://0818.02686.cc:20012/5f3f2b9e0005cb370a424d7f07df7156.ts
+彩虹MOIVE,p5p://0818.02686.cc:20012/5f3f2b350002131a0a40b263a63e9fdf.ts
+彩虹e台,p5p://0818.02686.cc:20012/5f3f2a7800019ef50a3dcffdb1daa619.ts
+HOT,p5p://0818.02686.cc:20012/5f3f2a31000938130a3cbc97aa35e26d.ts
+HAPPY,p5p://0818.02686.cc:20012/5f3f298b000350920a3a32a46e3f183f.ts#https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
+潘多拉玩美,p5p://0818.02686.cc:20012/5f3f278f00023acc0a3271fd50ba8d23.ts
+潘多拉粉红,p5p://0818.02686.cc:20012/5f3f26e00005c41d0a2fc74dc6d2ac31.ts
+惊艳成人电影台,p5p://0818.02686.cc:20012/5f3f25da000e99280a2bca20680560c2.ts
+香蕉台,p5p://0818.02686.cc:20012/5f3f24c1000af48d0a277f8997de9d5f.ts
+美国花花公子,mitv://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790.ts
+松视3台,p5p://0818.02686.cc:20012/5f3f2cc700001f430a46d433c00cd7cd.ts
+松视2台,p5p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e.ts
+松视1台,p5p://0818.02686.cc:20012/5f3f2c2b000f126c0a4476a7dee5d96c.ts
+K频道,p5p://0818.02686.cc:20012/5f3f2b9e0005cb370a424d7f07df7156.ts
+彩虹MOIVE,p5p://0818.02686.cc:20012/5f3f2b350002131a0a40b263a63e9fdf.ts
+彩虹e台,p5p://0818.02686.cc:20012/5f3f2a7800019ef50a3dcffdb1daa619.ts
+HOT,p5p://0818.02686.cc:20012/5f3f2a31000938130a3cbc97aa35e26d.ts
+HAPPY,p5p://0818.02686.cc:20012/5f3f298b000350920a3a32a46e3f183f.ts
+潘多拉玩美,p5p://0818.02686.cc:20012/5f3f278f00023acc0a3271fd50ba8d23.ts
+潘多拉粉红,p5p://0818.02686.cc:20012/5f3f26e00005c41d0a2fc74dc6d2ac31.ts
+惊艳成人电影台,p5p://0818.02686.cc:20012/5f3f25da000e99280a2bca20680560c2.ts
+香蕉台,p5p://0818.02686.cc:20012/5f3f24c1000af48d0a277f8997de9d5f.ts
+会员二区_0518,#genre#
+日本动漫1,https://lbbf9.com/20191105/xAf8e6gN/index.m3u8
+日本动漫2,https://lbbf9.com/20191105/6dCdeenO/index.m3u8
+日韩无码1,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/121914-760/index.m3u8
+日韩无码2,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/120614-753/index.m3u8
+日韩无码3,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/091715_154-1pon/index.m3u8
+日韩无码4,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081315_133-1pon/index.m3u8
+日韩无码5,https://www.800-cdn.com/20191104/QLNa0Ar4/index.m3u8
+日韩无码6,https://www.800-cdn.com/20191104/1NVic5n6/index.m3u8
+会员四区_0518,#genre#
+(香港) 情不自禁,https://kumilist.obs22.top/CF1E0CD419E3779ECCD813940B7BD778.m3u8
+到女邻居家里做客,https://kumilist.obs22.top/51BDC60F5ED8215AAF6B110415C41857.m3u8
+（韩国）漂亮人妻看上新来的年轻小伙,https://kumilist.obs22.top/7A1B08ED3BCDEB39D4A9FCAFA94666A8.m3u8
+（香港）玉蒲團之偷情寶鑑.Sex and Zen,https://kumilist.obs22.top/435F887CCA787F89ED897288AB14D9F1.m3u8
+古装系列倩女销魂完整版,https://kumilist.obs22.top/4A6012315D6C36101101F16B983B600D.m3u8
+美好的飞行,https://kumilist.obs22.top/A3F772B5043967FFEF2537CB6B242FFD.m3u8
+3D豪情 2014 ,https://kumilist.obs22.top/17C3B3363559D62D9E6B956A7A5A8229.m3u8
+(香港） 灭门惨案之虐杀Daughter Of Darkness(1993),https://kumilist.obs22.top/05D129827F2F4C447B4D655C08DF4071.m3u8
+韩国校园师生恋,https://kumilist.obs22.top/92D1D99FCF903D882CB7149806E80146.m3u8
+（香港）金瓶梅2,https://kumilist.obs22.top/73ABD75FC9C6E05BD42F20B85E1AF8EC.m3u8
+一路向西,https://kumilist.obs22.top/C31917BD5CCAC61981AB26DFCFEF505E.m3u8
+(香港)蜜桃成熟時,https://kumilist.obs22.top/1A0E27B58CB6021F295B45929D735E8F.m3u8
+韓國女演員列傳,https://kumilist.obs22.top/30C9423D917252A40D981EA075218936.m3u8
+下海 BITTER FLOWERS 齊溪,https://kumilist.obs22.top/D2CF68DD85DAF4F1143A48520F66EF81.m3u8
+（韓國）霜花店,https://kumilist.obs22.top/78B8F4A41B7639DAF8654D413FF4B8DD.m3u8
+3D肉蒲團,https://kumilist.obs22.top/85128F9AE4765732B6E1C20CAD452216.m3u8
+（香港）三分之一情人,https://kumilist.obs22.top/BF0BBA20F43E6234D0957F37E62F64D3.m3u8
+（香港）赤裸天使,https://kumilist.obs22.top/0563434901CB92726A48BD3E00E30C97.m3u8
+（韓國）色即是空,https://kumilist.obs22.top/AD619285B6F7C2934A07E7B8164706FC.m3u8
+（香港）聊齋艷譚I艷魔大戰,https://kumilist.obs22.top/CA92FB7AD1220409BAA516BF9F519FCD.m3u8
+（香港）滿清十大酷刑2赤裸凌遲,https://kumilist.obs22.top/EAB81172EE89AF89EC93A9B74CFB73C2.m3u8
+香港奇案之强姦,https://kumilist.obs22.top/89842C7067F45872DCEB4D8F1639784F.m3u8
+（香港）聊齋艷譚之幽媾,https://kumilist.obs22.top/90E950499B52C2754F1F0CA35E61A181.m3u8
+（香港）西廂艷談,https://kumilist.obs22.top/D2D575E757443ADE88A75A2CF398359A.m3u8
+（香港）赤裸羔羊,https://kumilist.obs22.top/66922E275A4B7EEF21F484F876C529B1.m3u8
+（香港）玉蒲團 II 玉女心經,https://kumilist.obs22.top/8A187DC0FCF475ECFB44C54085E7FDEB.m3u8
+（香港）女歡,https://kumilist.obs22.top/498BF9B20D3AA22DD67C3AAB63DCB25B.m3u8
+ 风尘三女侠,https://kumilist.obs22.top/DF4C10F9248EBC127C88AD33899D0695.m3u8
+(韓國) 贪婪：欲望之岛,https://kumilist.obs22.top/706224CF87BD6422096B0CE2BABDB722.m3u8
+(香港) 強姦終極篇之最後羔羊,https://kumilist.obs22.top/BB658BD03129899D7228835D4985D84E.m3u8
+愛的精靈 李麗珍,https://kumilist.obs22.top/86B57D21BFA8908305E88CB9744F7415.m3u8
+（香港）赤裸羔羊3-致命诱惑,https://kumilist.obs22.top/17FF655FF384DB036821012592D3A23F.m3u8
+(香港) 我為卿狂,https://kumilist.obs22.top/F6BD267DA5AD9E529E54A3D90109BF15.m3u8
+（香港）囡囡,https://kumilist.obs22.top/7A5C9591554209BB6D111C7E7C5CAFC3.m3u8
+(香港)整容 翁虹,https://kumilist.obs22.top/69FE78B131DC6B0AA0D6E14C40FA8547.m3u8
+驚變,https://kumilist.obs22.top/F90D9715275A0A3C53FA1BFD74B26980.m3u8
+蜜桃成熟時3之蜜桃仙子,https://kumilist.obs22.top/ECF583D85113C3A7CD86627802B56654.m3u8
+(香港) 微交少女,https://kumilist.obs22.top/9F8F3EE2AB3323EEBD9DF15D5E39DBDE.m3u8
+（香港）擋不住的風情,https://kumilist.obs22.top/7379C8890677E9CC1A055C50CE6722F8.m3u8
+(香港) 特区爱奴.China.Dolls.1992,https://kumilist.obs22.top/FBC819C44D4585CE2B294F47A93241D2.m3u8
+(香港) 三度诱惑,https://kumilist.obs22.top/7FDDEC8B134C837A3869172C2F0025B8.m3u8
+桃色天使之終極獵殺,https://kumilist.obs22.top/A4CC3B11C7C93AFD2A6ABF95C604FC2D.m3u8
+(香港) 色模 Super Models,https://kumilist.obs22.top/785A165CB85E3324B93B3C626B492170.m3u8
+(香港) 情难自制,https://kumilist.obs22.top/A662E9EEC7605F93DC65DFD1BC381B2E.m3u8
+夏日狂情,https://kumilist.obs22.top/99BA0AC05B9786F3782DBCE4996D5F58.m3u8
+（韓國）娜妲莉的情人.Natalie,https://kumilist.obs22.top/298F0C43479EC9FDC0FC61BF45CB9AFB.m3u8
+(香港)與鴨共舞,https://kumilist.obs22.top/88DFF7529C6C8F674D67EE8A232C587C.m3u8
+(香港) 弱殺 ,https://kumilist.obs22.top/9663880C29111CE919497A79406BC38F.m3u8
+(香港) 鸡年大奸情,https://kumilist.obs22.top/67A2AC68518C66CFF45A78377CBC6F31.m3u8
+ 舞男情未了,https://kumilist.obs22.top/90E5925DBBEFFB7264C27F52EF615208.m3u8
+伟哥的故事.Mr.Viagra.1998,https://kumilist.obs22.top/20201123/15654/6c98ba4dd1b7.m3u8
+伟哥的故事.Mr.Viagra.1998,https://kumilist.obs22.top/20201123/15654/6c98ba4dd1b7.m3u8
+古装系列倩女销魂完整版,https://kumilist.obs22.top/4A6012315D6C36101101F16B983B600D.m3u8
+美好的飞行,https://kumilist.obs22.top/A3F772B5043967FFEF2537CB6B242FFD.m3u8
+（韓國）霜花店,https://kumilist.obs22.top/78B8F4A41B7639DAF8654D413FF4B8DD.m3u8
+（香港）三分之一情人,https://kumilist.obs22.top/BF0BBA20F43E6234D0957F37E62F64D3.m3u8
+（香港）赤裸天使,https://kumilist.obs22.top/0563434901CB92726A48BD3E00E30C97.m3u8
+（香港）赤裸羔羊3-致命诱惑,https://kumilist.obs22.top/17FF655FF384DB036821012592D3A23F.m3u8
+（香港）赤裸羔羊,https://kumilist.obs22.top/66922E275A4B7EEF21F484F876C529B1.m3u8
+(韓國) 贪婪：欲望之岛,https://kumilist.obs22.top/706224CF87BD6422096B0CE2BABDB722.m3u8
+韓國女演員列傳,https://kumilist.obs22.top/30C9423D917252A40D981EA075218936.m3u8
+（韓國）色即是空,https://kumilist.obs22.top/AD619285B6F7C2934A07E7B8164706FC.m3u8
+韩国校园师生恋,https://kumilist.obs22.top/92D1D99FCF903D882CB7149806E80146.m3u8
+（韩国）漂亮人妻看上新来的年轻小伙,https://kumilist.obs22.top/7A1B08ED3BCDEB39D4A9FCAFA94666A8.m3u8
+到女邻居家里做客,https://kumilist.obs22.top/51BDC60F5ED8215AAF6B110415C41857.m3u8
+下海 BITTER FLOWERS 齊溪,https://kumilist.obs22.top/D2CF68DD85DAF4F1143A48520F66EF81.m3u8
+(香港)與鴨共舞,https://kumilist.obs22.top/88DFF7529C6C8F674D67EE8A232C587C.m3u8
+桃色天使之終極獵殺,https://kumilist.obs22.top/A4CC3B11C7C93AFD2A6ABF95C604FC2D.m3u8
+（韓國）娜妲莉的情人.Natalie,https://kumilist.obs22.top/298F0C43479EC9FDC0FC61BF45CB9AFB.m3u8
+(香港)整容 翁虹,https://kumilist.obs22.top/69FE78B131DC6B0AA0D6E14C40FA8547.m3u8
+（香港）玉蒲團 II 玉女心經,https://kumilist.obs22.top/8A187DC0FCF475ECFB44C54085E7FDEB.m3u8
+一路向西,https://kumilist.obs22.top/C31917BD5CCAC61981AB26DFCFEF505E.m3u8
+（香港）玉蒲團之偷情寶鑑.Sex and Zen,https://kumilist.obs22.top/435F887CCA787F89ED897288AB14D9F1.m3u8
+香港奇案之强姦,https://kumilist.obs22.top/89842C7067F45872DCEB4D8F1639784F.m3u8
+（香港）聊齋艷譚之幽媾,https://kumilist.obs22.top/90E950499B52C2754F1F0CA35E61A181.m3u8
+（香港）聊齋艷譚I艷魔大戰,https://kumilist.obs22.top/CA92FB7AD1220409BAA516BF9F519FCD.m3u8
+（香港）西廂艷談,https://kumilist.obs22.top/D2D575E757443ADE88A75A2CF398359A.m3u8
+(香港) 特区爱奴.China.Dolls.1992,https://kumilist.obs22.top/FBC819C44D4585CE2B294F47A93241D2.m3u8
+(香港) 我為卿狂,https://kumilist.obs22.top/F6BD267DA5AD9E529E54A3D90109BF15.m3u8
+(香港) 微交少女,https://kumilist.obs22.top/9F8F3EE2AB3323EEBD9DF15D5E39DBDE.m3u8
+(香港) 色模 Super Models,https://kumilist.obs22.top/785A165CB85E3324B93B3C626B492170.m3u8
+(香港) 三度诱惑,https://kumilist.obs22.top/7FDDEC8B134C837A3869172C2F0025B8.m3u8
+(香港) 情难自制,https://kumilist.obs22.top/A662E9EEC7605F93DC65DFD1BC381B2E.m3u8
+(香港) 弱殺 ,https://kumilist.obs22.top/9663880C29111CE919497A79406BC38F.m3u8
+（香港）囡囡,https://kumilist.obs22.top/7A5C9591554209BB6D111C7E7C5CAFC3.m3u8
+(香港) 情不自禁,https://kumilist.obs22.top/CF1E0CD419E3779ECCD813940B7BD778.m3u8
+（香港）滿清十大酷刑2赤裸凌遲,https://kumilist.obs22.top/EAB81172EE89AF89EC93A9B74CFB73C2.m3u8
+蜜桃成熟時3之蜜桃仙子,https://kumilist.obs22.top/ECF583D85113C3A7CD86627802B56654.m3u8
+（香港）女歡,https://kumilist.obs22.top/498BF9B20D3AA22DD67C3AAB63DCB25B.m3u8
+(香港)蜜桃成熟時,https://kumilist.obs22.top/1A0E27B58CB6021F295B45929D735E8F.m3u8
+(香港） 灭门惨案之虐杀Daughter Of Darkness(1993),https://kumilist.obs22.top/05D129827F2F4C447B4D655C08DF4071.m3u8
+（香港）金瓶梅2,https://kumilist.obs22.top/73ABD75FC9C6E05BD42F20B85E1AF8EC.m3u8
+3D豪情 2014 ,https://kumilist.obs22.top/17C3B3363559D62D9E6B956A7A5A8229.m3u8
+(香港) 鸡年大奸情,https://kumilist.obs22.top/67A2AC68518C66CFF45A78377CBC6F31.m3u8
+愛的精靈 李麗珍,https://kumilist.obs22.top/86B57D21BFA8908305E88CB9744F7415.m3u8
+（香港）擋不住的風情,https://kumilist.obs22.top/7379C8890677E9CC1A055C50CE6722F8.m3u8
+驚變,https://kumilist.obs22.top/F90D9715275A0A3C53FA1BFD74B26980.m3u8
+(香港) 強姦終極篇之最後羔羊,https://kumilist.obs22.top/BB658BD03129899D7228835D4985D84E.m3u8
+ 舞男情未了,https://kumilist.obs22.top/90E5925DBBEFFB7264C27F52EF615208.m3u8
+夏日狂情,https://kumilist.obs22.top/99BA0AC05B9786F3782DBCE4996D5F58.m3u8
+3D肉蒲團,https://kumilist.obs22.top/85128F9AE4765732B6E1C20CAD452216.m3u8
+ 风尘三女侠,https://kumilist.obs22.top/DF4C10F9248EBC127C88AD33899D0695.m3u8
+(香港) 情不自禁,https://kumilist.obs22.top/CF1E0CD419E3779ECCD813940B7BD778.m3u8
+到女邻居家里做客,https://kumilist.obs22.top/51BDC60F5ED8215AAF6B110415C41857.m3u8
+（韩国）漂亮人妻看上新来的年轻小伙,https://kumilist.obs22.top/7A1B08ED3BCDEB39D4A9FCAFA94666A8.m3u8
+古装系列倩女销魂完整版,https://kumilist.obs22.top/4A6012315D6C36101101F16B983B600D.m3u8
+（香港）玉蒲團之偷情寶鑑.Sex and Zen,https://kumilist.obs22.top/435F887CCA787F89ED897288AB14D9F1.m3u8
+美好的飞行,https://kumilist.obs22.top/A3F772B5043967FFEF2537CB6B242FFD.m3u8
+3D豪情 2014 ,https://kumilist.obs22.top/17C3B3363559D62D9E6B956A7A5A8229.m3u8
+韩国校园师生恋,https://kumilist.obs22.top/92D1D99FCF903D882CB7149806E80146.m3u8
+(香港） 灭门惨案之虐杀Daughter Of Darkness(1993),https://kumilist.obs22.top/05D129827F2F4C447B4D655C08DF4071.m3u8
+（香港）金瓶梅2,https://kumilist.obs22.top/73ABD75FC9C6E05BD42F20B85E1AF8EC.m3u8
+一路向西,https://kumilist.obs22.top/C31917BD5CCAC61981AB26DFCFEF505E.m3u8
+(香港)蜜桃成熟時,https://kumilist.obs22.top/1A0E27B58CB6021F295B45929D735E8F.m3u8
+韓國女演員列傳,https://kumilist.obs22.top/30C9423D917252A40D981EA075218936.m3u8
+（韓國）霜花店,https://kumilist.obs22.top/78B8F4A41B7639DAF8654D413FF4B8DD.m3u8
+3D肉蒲團,https://kumilist.obs22.top/85128F9AE4765732B6E1C20CAD452216.m3u8
+下海 BITTER FLOWERS 齊溪,https://kumilist.obs22.top/D2CF68DD85DAF4F1143A48520F66EF81.m3u8
+（香港）三分之一情人,https://kumilist.obs22.top/BF0BBA20F43E6234D0957F37E62F64D3.m3u8
+（韓國）色即是空,https://kumilist.obs22.top/AD619285B6F7C2934A07E7B8164706FC.m3u8
+（香港）赤裸天使,https://kumilist.obs22.top/0563434901CB92726A48BD3E00E30C97.m3u8
+（香港）聊齋艷譚I艷魔大戰,https://kumilist.obs22.top/CA92FB7AD1220409BAA516BF9F519FCD.m3u8
+（香港）滿清十大酷刑2赤裸凌遲,https://kumilist.obs22.top/EAB81172EE89AF89EC93A9B74CFB73C2.m3u8
+香港奇案之强姦,https://kumilist.obs22.top/89842C7067F45872DCEB4D8F1639784F.m3u8
+（香港）赤裸羔羊,https://kumilist.obs22.top/66922E275A4B7EEF21F484F876C529B1.m3u8
+（香港）聊齋艷譚之幽媾,https://kumilist.obs22.top/90E950499B52C2754F1F0CA35E61A181.m3u8
+（香港）玉蒲團 II 玉女心經,https://kumilist.obs22.top/8A187DC0FCF475ECFB44C54085E7FDEB.m3u8
+ 风尘三女侠,https://kumilist.obs22.top/DF4C10F9248EBC127C88AD33899D0695.m3u8
+（香港）西廂艷談,https://kumilist.obs22.top/D2D575E757443ADE88A75A2CF398359A.m3u8
+(韓國) 贪婪：欲望之岛,https://kumilist.obs22.top/706224CF87BD6422096B0CE2BABDB722.m3u8
+（香港）女歡,https://kumilist.obs22.top/498BF9B20D3AA22DD67C3AAB63DCB25B.m3u8
+(香港) 強姦終極篇之最後羔羊,https://kumilist.obs22.top/BB658BD03129899D7228835D4985D84E.m3u8
+愛的精靈 李麗珍,https://kumilist.obs22.top/86B57D21BFA8908305E88CB9744F7415.m3u8
+（香港）赤裸羔羊3-致命诱惑,https://kumilist.obs22.top/17FF655FF384DB036821012592D3A23F.m3u8
+(香港) 我為卿狂,https://kumilist.obs22.top/F6BD267DA5AD9E529E54A3D90109BF15.m3u8
+（香港）囡囡,https://kumilist.obs22.top/7A5C9591554209BB6D111C7E7C5CAFC3.m3u8
+(香港)整容 翁虹,https://kumilist.obs22.top/69FE78B131DC6B0AA0D6E14C40FA8547.m3u8
+驚變,https://kumilist.obs22.top/F90D9715275A0A3C53FA1BFD74B26980.m3u8
+蜜桃成熟時3之蜜桃仙子,https://kumilist.obs22.top/ECF583D85113C3A7CD86627802B56654.m3u8
+(香港) 微交少女,https://kumilist.obs22.top/9F8F3EE2AB3323EEBD9DF15D5E39DBDE.m3u8
+（香港）擋不住的風情,https://kumilist.obs22.top/7379C8890677E9CC1A055C50CE6722F8.m3u8
+(香港) 特区爱奴.China.Dolls.1992,https://kumilist.obs22.top/FBC819C44D4585CE2B294F47A93241D2.m3u8
+(香港) 三度诱惑,https://kumilist.obs22.top/7FDDEC8B134C837A3869172C2F0025B8.m3u8
+桃色天使之終極獵殺,https://kumilist.obs22.top/A4CC3B11C7C93AFD2A6ABF95C604FC2D.m3u8
+(香港) 情难自制,https://kumilist.obs22.top/A662E9EEC7605F93DC65DFD1BC381B2E.m3u8
+(香港) 色模 Super Models,https://kumilist.obs22.top/785A165CB85E3324B93B3C626B492170.m3u8
+夏日狂情,https://kumilist.obs22.top/99BA0AC05B9786F3782DBCE4996D5F58.m3u8
+(香港)與鴨共舞,https://kumilist.obs22.top/88DFF7529C6C8F674D67EE8A232C587C.m3u8
+（韓國）娜妲莉的情人.Natalie,https://kumilist.obs22.top/298F0C43479EC9FDC0FC61BF45CB9AFB.m3u8
+(香港) 弱殺 ,https://kumilist.obs22.top/9663880C29111CE919497A79406BC38F.m3u8
+(香港) 鸡年大奸情,https://kumilist.obs22.top/67A2AC68518C66CFF45A78377CBC6F31.m3u8
+ 舞男情未了,https://kumilist.obs22.top/90E5925DBBEFFB7264C27F52EF615208.m3u8
+伟哥的故事.Mr.Viagra.1998,https://kumilist.obs22.top/20201123/15654/6c98ba4dd1b7.m3u8
+色即是空,http://youku1.dianfubang.com/20191113/DbOnl5Bb/index.m3u8
+潘金莲之前世今生,http://youku1.dianfubang.com/20190324/tYYCWERu/index.m3u8
+玉蒲团之西厢艳谈,http://youku1.dianfubang.com/20190301/Zl1000Bd/index.m3u8
+风月宝鉴之冥府春色,http://youku1.dianfubang.com/20190301/ESMGiXZx/index.m3u8
+会员五区_0518,#genre#
+女仆诱惑 小九月,https://kumilist.obs22.top/A7379051D788C4603063597CD3F4F645.m3u8
+萌琪琪Irene,https://kumilist.obs22.top/12FF3851A470FDDCFF05966376DEA4F6.m3u8
+超甜美的美女,https://kumilist.obs22.top/CDC729106D474B4FC633241E7AD8989C.m3u8
+黄小雅,https://kumilist.obs22.top/CE8FE0B94621B7500D2360FE9E93A571.m3u8
+美乳OL欣欣,https://kumilist.obs22.top/484D6FEDBDC463DB934794DD885DDAC0.m3u8
+ 宝宝兔宝宝,https://kumilist.obs22.top/6EDB26917087FC9EBAC89A6D27DFD704.m3u8
+悠米yomi,https://kumilist.obs22.top/419CFECF208F3CA6244FDF6FF4227FCD.m3u8
+六月合集,https://kumilist.obs22.top/C329EDA0D71E6FA471A928C27680F938.m3u8
+悠米合集,https://kumilist.obs22.top/5814EF9DC01D7FF36DED519E4B2D5DBA.m3u8
+童颜巨乳 李可可,https://kumilist.obs22.top/1EA01A9AB8E2BCCB152ADA5FB82ABBD9.m3u8
+ Egg_尤妮丝,https://kumilist.obs22.top/A56E1E4AF2FD162C77D93BFF16835F88.m3u8
+childe三秋,https://kumilist.obs22.top/E54D4A3C437106CBFA6CAE619767DC66.m3u8
+范范合集,https://kumilist.obs22.top/3AFDE0F7EFAFE7C82401F3A36093B682.m3u8
+编制你的梦 夏梦,https://kumilist.obs22.top/16755CA0AE57C00530B9DC8F5CFF6335.m3u8
+水中美女,https://kumilist.obs22.top/EC77261C55D7EA19BC1FE45D886D07D5.m3u8
+ Egg_尤妮丝,https://kumilist.obs22.top/EA8CED7B0110DF39C72A9C4CDA088E95.m3u8
+肉丝翘臀 曲佑熙Baby,https://kumilist.obs22.top/B70354E575AAAFE2A404526F840B2F14.m3u8
+委婉伊人嘉依MOON,https://kumilist.obs22.top/548A0AEF851C312E690D451183F9FA6B.m3u8
+千叶合集,https://kumilist.obs22.top/6142ADE7EF9963D10688057AE7BC677D.m3u8
+比基尼秀夏雨荷,https://kumilist.obs22.top/9FC10325C036BB786C4C7A481203CFA1.m3u8
+秦小玉,https://kumilist.obs22.top/F9C235C94B7A60AEFE95F44CEDCD48A9.m3u8
+猫米合集,https://kumilist.obs22.top/B0EF55DC6CD8BF16B4B0F9F69CD37A76.m3u8
+丰满柔情 黄楽然,https://kumilist.obs22.top/95B30B7113337DCB87995965F3578CA4.m3u8
+ SOLO-尹菲,https://kumilist.obs22.top/4323F03D9D2A29A80EA722BACEE84273.m3u8
+美女香车 黄楽然,https://kumilist.obs22.top/ADDE67DA10F61ED310E3D5B12CE8DDA9.m3u8
+炎炎夏日 夏瑶baby,https://kumilist.obs22.top/214F8D0DE14F48A4FB08FAF791A30AA9.m3u8
+短裙炫酷艾小青,https://kumilist.obs22.top/A459E0B46B91D92D7446466B321D9809.m3u8
+王丽丽 合集,https://kumilist.obs22.top/2FE41C24118C747CD4C54CC1244F7B64.m3u8
+高贵傲人 傲娇萌萌Vivian,https://kumilist.obs22.top/5154ED966800EA8A1BC7184F19781ED3.m3u8
+情趣黑丝艾小青,https://kumilist.obs22.top/F6AFC29561E5DAF5901C415D1E613DFF.m3u8
+紫嫣合集,https://kumilist.obs22.top/0063BB8ACCD4044D9F5563BE627E32E0.m3u8
+ 梦小楠,https://kumilist.obs22.top/7F5EB5274CE190B13965456DB1E81F01.m3u8
+山清水秀王雨纯,https://kumilist.obs22.top/D4576C8B45DC0EE4A841F38D1FAE8179.m3u8
+慕羽茜,https://kumilist.obs22.top/8C227CAA73FFCB70642191744F65D2E5.m3u8
+咪咪,https://kumilist.obs22.top/BBFD0456A70AAECDB2F35E8582319060.m3u8
+琪琪Regina,https://kumilist.obs22.top/F9C4B1DD3044176137426DA2286D5B47.m3u8
+丝袜合集,https://kumilist.obs22.top/EBEB389E9C44362D19E8205E776BD15E.m3u8
+ SOLO-尹菲,https://kumilist.obs22.top/6963E85867EFAF6CC53432CC1FF9C404.m3u8
+丝袜美臀小姿,https://kumilist.obs22.top/54257ED0CBB40636CB3DE5B83F337BA6.m3u8
+琪琪Regina,https://kumilist.obs22.top/2CC29F58B453B6277F3C4DD60746AA58.m3u8
+杉原杏璃高清写真2,https://kumilist.obs22.top/EB86AD455F88D65EA1B1AC3F9D13F0DA.m3u8
+肥臀巨乳 王俪丁,https://kumilist.obs22.top/C8C4A68011957AC8DD1A357634F57B9B.m3u8
+喵莫儿,https://kumilist.obs22.top/50E87F42E6F40FFFAFAC08A8AB0901BB.m3u8
+冯木木LRIS,https://kumilist.obs22.top/9805E33A9E5F2F29B04C5EC5CDB5D54B.m3u8
+ 萌琪琪Irene,https://kumilist.obs22.top/48D2C4563EB7C187F1ECBF5369642AA6.m3u8
+轻轻思语 佘贝拉bella,https://kumilist.obs22.top/A14D9DA44BCD480A60E3DD93EF342F62.m3u8
+海风吹佛 王馨瑶yanni,https://kumilist.obs22.top/E57C2ACA54CCA99BF45B22C9C455C30D.m3u8
+高挑美乳 李梓熙,https://kumilist.obs22.top/AC2E5AFD29DD4E5E974D18EA04F5C730.m3u8
+ 张雨萌,https://kumilist.obs22.top/AAA707F733D6329278840F8E89B238D0.m3u8
+杉原杏璃高清写真,https://kumilist.obs22.top/D75EA8A599768AE5502299D46E17B44F.m3u8
+ SOLO-尹菲,https://kumilist.obs22.top/040040B5BE0CF013C7BFBC7B07C424BE.m3u8
+ Egg_尤妮丝,https://kumilist.obs22.top/E63CA89295378A68D621B103D8186546.m3u8
+米奇 合集,https://kumilist.obs22.top/24B4EAC7BB6883C20630D13381D9602E.m3u8
+黄花,https://kumilist.obs22.top/80F94562D7A6F2AFEBC8860EF0A09863.m3u8
+果儿Victoria,https://kumilist.obs22.top/74FBA3A89343B6CA893B407508533972.m3u8
+ 白子嫣nicky,https://kumilist.obs22.top/25A494F5F1A87CF6D3650694B48C6BBC.m3u8
+朱莉合集,https://kumilist.obs22.top/2A795E7F38134ABB9AB6939C76F4BE46.m3u8
+白领晓梦may,https://kumilist.obs22.top/D2DF4915BD1C1FFED39190F27A02706A.m3u8
+ 张雨萌,https://kumilist.obs22.top/833DBE1BA2B4559FB64BC1E241035875.m3u8
+ 琪琪Regina,https://kumilist.obs22.top/07A53957852EF681FD17E0F659B827A2.m3u8
+琪琪Regina,https://kumilist.obs22.top/CB15041F92FA3BC9800AE0778208BA1A.m3u8
+君子好逑 卓君,https://kumilist.obs22.top/90BC833AA7BB45E0020142E4BB48FE3D.m3u8
+ 包子,https://kumilist.obs22.top/854EAD128DA427686BB0ECB57DC4E123.m3u8
+阳阳合集,https://kumilist.obs22.top/D94882D45253D848C0D17D4734F55CE4.m3u8
+果儿Victoria,https://kumilist.obs22.top/76816815336228E445677F9CD6648E20.m3u8
+ 琪琪Regina,https://kumilist.obs22.top/A959EA530C2FBC14D736C4898DA2172F.m3u8
+ 柳侑绮,https://kumilist.obs22.top/EE986091D321122B6D56F6D02DF52640.m3u8
+sunny合集,https://kumilist.obs22.top/C47BC192432C2505AD14DC4C458663CC.m3u8
+SOLO-尹菲,https://kumilist.obs22.top/5549A58211EC9C7F27F979BB9B439601.m3u8
+萌琪琪Irene,https://kumilist.obs22.top/9C60C9E1B9BC721DE7B37291306AC7D4.m3u8
+骑斑马的萌汉药baby,https://kumilist.obs22.top/B274443AC34242028FEBAF3766AC25B9.m3u8
+韩秀冉,https://kumilist.obs22.top/70CA0C3E5389FF6B2D27DD8A630406ED.m3u8
+小鹿合集,https://kumilist.obs22.top/04095DB43B13987CA5876CE36C9E5BEA.m3u8
+ 悠米yomi,https://kumilist.obs22.top/BD015FBD4434FE7F7B3E2FF2809DD3D8.m3u8
+美丽的花蕊,https://kumilist.obs22.top/33556B1728729A2B3AF4A4E50297D2B4.m3u8
+ G干干,https://kumilist.obs22.top/DCF761EBAF30D4353F87D0FD6DB897D7.m3u8
+情趣宾馆 温心怡,https://kumilist.obs22.top/4845EDB03DA401B9904D044D2834C95D.m3u8
+精彩诱惑写真lina,https://kumilist.obs22.top/7C2E7C72174EB8D2E0A81A8931E5B00B.m3u8
+白丝小九月,https://kumilist.obs22.top/EDFFFB3D8D61D6B4938B02C5F2EA0059.m3u8
+ 大尺度宋-KiK,https://kumilist.obs22.top/EDC25532D29FF2C5749D74CFCD3809BF.m3u8
+蓝丝情趣写真,https://kumilist.obs22.top/9A8C96D625063240B61795A2C1205D22.m3u8
+ 果儿Victoria,https://kumilist.obs22.top/B460D344373AE468527911A90EFDCE39.m3u8
+小兔装温心怡,https://kumilist.obs22.top/EBBBA6CDE0FA6EDBE15D9347842B5CE9.m3u8
+广州18岁嫩模 雷人性感的T裤粉嫩的躯体,https://kumilist.obs22.top/24B7E2E966392B24C9144A1BE8069B91.m3u8
+粉嫩少女,https://kumilist.obs22.top/3632F417F8F0BF87AF917937968C4A90.m3u8
+粉蝴蝶,https://kumilist.obs22.top/51DE014B86323626E98C62714AEACF48.m3u8
+林晓晓,https://kumilist.obs22.top/F5FF714BC0D13A075428CAABF419E063.m3u8
+ 赵小米Kitty,https://kumilist.obs22.top/195EC76DC99BAF30CFB8BABEEEDC2B89.m3u8
+夏小小,https://kumilist.obs22.top/6FFDBBD74A1B73757833FA38C3644E57.m3u8
+咪咪 合集,https://kumilist.obs22.top/1C2ABEC57D67A953D7D6CCEEFADC992D.m3u8
+豪乳雨轩,https://kumilist.obs22.top/253C18B580B6A27A76052D7822A45480.m3u8
+白丝透明装 小九月,https://kumilist.obs22.top/42F74ABAD1DA91FBDC8DD45DC4D1F5E0.m3u8
+爱丽莎baby,https://kumilist.obs22.top/43FD4B350B69A4653ABAA16F0BEFB6CA.m3u8
+尤妮丝,https://kumilist.obs22.top/C1062DBD21B171BC02363F4AFC5E6EB4.m3u8
+千帆 合集,https://kumilist.obs22.top/89851061284E055B6B77AA7CAE24CC17.m3u8
+透视装黄楽然,https://kumilist.obs22.top/97AD01194B932D6895BB1077EFCF6667.m3u8
+ 慕羽茜,https://kumilist.obs22.top/5BCFF28E97173A9C47E81C3645FF84B1.m3u8
+小九月,https://kumilist.obs22.top/E56969EA29798CA763C7E0ECE5A2FBFC.m3u8
+ 郭忆然,https://kumilist.obs22.top/3F9E048F368EC1AAB4636667D9396C77.m3u8
+玛鲁娜,https://kumilist.obs22.top/C1C676455992C8AFF5E09193A35AE40A.m3u8
+ 琪琪Regina,https://kumilist.obs22.top/3762FD42FE1318FE2CC19DF660AD22B5.m3u8
+funny 合集,https://kumilist.obs22.top/14F4717CBE151F2F2E04BB5AD20CEBBF.m3u8
+刘飞儿,https://kumilist.obs22.top/A58F93C2C9716B5AF66EDB9D3E928CBE.m3u8
+土肥圆矮挫穷,https://kumilist.obs22.top/3F8B065FD8B02926C5611BC94CB1420A.m3u8
+艾小青,https://kumilist.obs22.top/1BAB3615DFBEAED6ED8C47F4D74D45D4.m3u8
+西西黑丝写真诱惑,https://kumilist.obs22.top/29668F573A06D1974080F81655D0AEB9.m3u8
+黑丝网 晓梦may,https://kumilist.obs22.top/E216063AC6962A32CDED92F7A6BA58D6.m3u8
+高贵美女黑丝情趣写真,https://kumilist.obs22.top/B94B274C2AE073519C72EEB244BE96AB.m3u8
+ 徐微微mia,https://kumilist.obs22.top/0AF3FD6AB793A679A7195846C4F30FFD.m3u8
+杉原杏璃高清写真3,https://kumilist.obs22.top/5C710C02D36FD4297AC44E2ED19881FA.m3u8
+ childe三秋,https://kumilist.obs22.top/30D50614BF54CBDA9F1FB63E6431F699.m3u8
+栗子Riz,https://kumilist.obs22.top/10955955E78AB26ADA27F846B4D944DA.m3u8
+ 芘馬,https://kumilist.obs22.top/779CE964706A0556EE48EB1F2E54CD9A.m3u8
+小尤奈,https://kumilist.obs22.top/BADC5490AB3C2649427456A262DC7CCF.m3u8
+黑丝翘臀,https://kumilist.obs22.top/D675C4047DF72C49F51CAE75D651030F.m3u8
+雯雯合集,https://kumilist.obs22.top/0845A16B9222604A5FB9D45B50FE5A77.m3u8
+ 于姬Una,https://kumilist.obs22.top/8ADF66B3C854046CAA75AED4E27F3888.m3u8
+慕羽茜,https://kumilist.obs22.top/9195175A9D734AA0BC9158877E4B0EBD.m3u8
+陈亦菲,https://kumilist.obs22.top/C94299D8E1BF423A6F51A1D42B8E32B6.m3u8
+黑丝美腿 温心怡,https://kumilist.obs22.top/4D41BBCFD677D695B68F70C56AF1239A.m3u8
+林茜茜,https://kumilist.obs22.top/4BF33C26FA5E3EF2FFFDF8E0A9452BC2.m3u8
+ 模特合集,https://kumilist.obs22.top/CE9FA8F8C9E3C621D553A79C0349F066.m3u8
+ 梦小楠小夜猫,https://kumilist.obs22.top/13C1A317011FC28D9F28D2E2B9C8676B.m3u8
+绮里嘉,https://kumilist.obs22.top/D1CB0AECA2C44F7EA66E34D0FA8936A6.m3u8
+苏可尔,https://kumilist.obs22.top/2E1107CEC064C0D01E18C55971E9EF58.m3u8
+小楠小夜猫,https://kumilist.obs22.top/28DB02A220235EB5887000A2E849DD28.m3u8
+ 陈宇曦niki,https://kumilist.obs22.top/C7400B707AB0DCD5CD0B0CC352A3D97E.m3u8
+ 严佳丽,https://kumilist.obs22.top/9B88A18C30EA2D56F24679D10F5C0A63.m3u8
+小文,https://kumilist.obs22.top/F9564956E85B57496EAFDDC7008F024A.m3u8
+房间里的温心怡,https://kumilist.obs22.top/A35CB9DC4D91665FA8065AD5123AF48C.m3u8
+楚楚 ,https://kumilist.obs22.top/5CA35FA9D214A69E4821C736E7FF2071.m3u8
+ 张二爷Navira,https://kumilist.obs22.top/4FA1FD923516F5528C8C15BF69D967E4.m3u8
+ SOLO-尹菲,https://kumilist.obs22.top/84429CBC6278E5B54D643C3BC8368B87.m3u8
+泳装 小夕Kitty,https://kumilist.obs22.top/DD03AAA384E5D773B2870984612618C8.m3u8
+温心怡,https://kumilist.obs22.top/62EF1299C1D0245AE003BC89F43EC9C9.m3u8
+ 张二爷Navira,https://kumilist.obs22.top/D8AA61F64EF5665F2D0B52760353C8DE.m3u8
+果儿Victoria,https://kumilist.obs22.top/7740E24D58F7065A2B7BC2E9602BA2E3.m3u8
+梦小楠小夜猫,https://kumilist.obs22.top/2D56D7601AEB43E21703A8E9FAF3BEA7.m3u8
+果儿Victoria,https://kumilist.obs22.top/1FD0745ABC570410E0B71F5CA1EA76A0.m3u8
+ 苏可er,https://kumilist.obs22.top/DE0D8B7B9C80406CB2B08096C1B18549.m3u8
+Lvcha精彩写真,https://kumilist.obs22.top/08B1FD674BA44BB6651A675BB0D7697C.m3u8
+小巧美埡,https://kumilist.obs22.top/96FE3FC28E41A42ADB325B5A53FCF6A0.m3u8
+超甜美的美女,https://kumilist.obs22.top/CDC729106D474B4FC633241E7AD8989C.m3u8
+六月合集,https://kumilist.obs22.top/C329EDA0D71E6FA471A928C27680F938.m3u8
+王丽丽 合集,https://kumilist.obs22.top/2FE41C24118C747CD4C54CC1244F7B64.m3u8
+childe三秋,https://kumilist.obs22.top/E54D4A3C437106CBFA6CAE619767DC66.m3u8
+萌琪琪Irene,https://kumilist.obs22.top/12FF3851A470FDDCFF05966376DEA4F6.m3u8
+黄小雅,https://kumilist.obs22.top/CE8FE0B94621B7500D2360FE9E93A571.m3u8
+ 琪琪Regina,https://kumilist.obs22.top/3762FD42FE1318FE2CC19DF660AD22B5.m3u8
+ SOLO-尹菲,https://kumilist.obs22.top/4323F03D9D2A29A80EA722BACEE84273.m3u8
+悠米yomi,https://kumilist.obs22.top/419CFECF208F3CA6244FDF6FF4227FCD.m3u8
+萌琪琪Irene,https://kumilist.obs22.top/9C60C9E1B9BC721DE7B37291306AC7D4.m3u8
+sunny合集,https://kumilist.obs22.top/C47BC192432C2505AD14DC4C458663CC.m3u8
+ 琪琪Regina,https://kumilist.obs22.top/07A53957852EF681FD17E0F659B827A2.m3u8
+funny 合集,https://kumilist.obs22.top/14F4717CBE151F2F2E04BB5AD20CEBBF.m3u8
+ Egg_尤妮丝,https://kumilist.obs22.top/E63CA89295378A68D621B103D8186546.m3u8
+ childe三秋,https://kumilist.obs22.top/30D50614BF54CBDA9F1FB63E6431F699.m3u8
+喵莫儿,https://kumilist.obs22.top/50E87F42E6F40FFFAFAC08A8AB0901BB.m3u8
+ 模特合集,https://kumilist.obs22.top/CE9FA8F8C9E3C621D553A79C0349F066.m3u8
+ 悠米yomi,https://kumilist.obs22.top/BD015FBD4434FE7F7B3E2FF2809DD3D8.m3u8
+咪咪,https://kumilist.obs22.top/BBFD0456A70AAECDB2F35E8582319060.m3u8
+ Egg_尤妮丝,https://kumilist.obs22.top/EA8CED7B0110DF39C72A9C4CDA088E95.m3u8
+ SOLO-尹菲,https://kumilist.obs22.top/84429CBC6278E5B54D643C3BC8368B87.m3u8
+ Egg_尤妮丝,https://kumilist.obs22.top/A56E1E4AF2FD162C77D93BFF16835F88.m3u8
+冯木木LRIS,https://kumilist.obs22.top/9805E33A9E5F2F29B04C5EC5CDB5D54B.m3u8
+朱莉合集,https://kumilist.obs22.top/2A795E7F38134ABB9AB6939C76F4BE46.m3u8
+猫米合集,https://kumilist.obs22.top/B0EF55DC6CD8BF16B4B0F9F69CD37A76.m3u8
+紫嫣合集,https://kumilist.obs22.top/0063BB8ACCD4044D9F5563BE627E32E0.m3u8
+千叶合集,https://kumilist.obs22.top/6142ADE7EF9963D10688057AE7BC677D.m3u8
+米奇 合集,https://kumilist.obs22.top/24B4EAC7BB6883C20630D13381D9602E.m3u8
+ G干干,https://kumilist.obs22.top/DCF761EBAF30D4353F87D0FD6DB897D7.m3u8
+范范合集,https://kumilist.obs22.top/3AFDE0F7EFAFE7C82401F3A36093B682.m3u8
+悠米合集,https://kumilist.obs22.top/5814EF9DC01D7FF36DED519E4B2D5DBA.m3u8
+咪咪 合集,https://kumilist.obs22.top/1C2ABEC57D67A953D7D6CCEEFADC992D.m3u8
+慕羽茜,https://kumilist.obs22.top/9195175A9D734AA0BC9158877E4B0EBD.m3u8
+梦小楠小夜猫,https://kumilist.obs22.top/2D56D7601AEB43E21703A8E9FAF3BEA7.m3u8
+慕羽茜,https://kumilist.obs22.top/8C227CAA73FFCB70642191744F65D2E5.m3u8
+千帆 合集,https://kumilist.obs22.top/89851061284E055B6B77AA7CAE24CC17.m3u8
+尤妮丝,https://kumilist.obs22.top/C1062DBD21B171BC02363F4AFC5E6EB4.m3u8
+ 梦小楠小夜猫,https://kumilist.obs22.top/13C1A317011FC28D9F28D2E2B9C8676B.m3u8
+ 赵小米Kitty,https://kumilist.obs22.top/195EC76DC99BAF30CFB8BABEEEDC2B89.m3u8
+ 宝宝兔宝宝,https://kumilist.obs22.top/6EDB26917087FC9EBAC89A6D27DFD704.m3u8
+ 于姬Una,https://kumilist.obs22.top/8ADF66B3C854046CAA75AED4E27F3888.m3u8
+ 慕羽茜,https://kumilist.obs22.top/5BCFF28E97173A9C47E81C3645FF84B1.m3u8
+小鹿合集,https://kumilist.obs22.top/04095DB43B13987CA5876CE36C9E5BEA.m3u8
+雯雯合集,https://kumilist.obs22.top/0845A16B9222604A5FB9D45B50FE5A77.m3u8
+阳阳合集,https://kumilist.obs22.top/D94882D45253D848C0D17D4734F55CE4.m3u8
+楚楚 ,https://kumilist.obs22.top/5CA35FA9D214A69E4821C736E7FF2071.m3u8
+果儿Victoria,https://kumilist.obs22.top/76816815336228E445677F9CD6648E20.m3u8
+秦小玉,https://kumilist.obs22.top/F9C235C94B7A60AEFE95F44CEDCD48A9.m3u8
+ 苏可er,https://kumilist.obs22.top/DE0D8B7B9C80406CB2B08096C1B18549.m3u8
+苏可尔,https://kumilist.obs22.top/2E1107CEC064C0D01E18C55971E9EF58.m3u8
+ 芘馬,https://kumilist.obs22.top/779CE964706A0556EE48EB1F2E54CD9A.m3u8
+ 张雨萌,https://kumilist.obs22.top/833DBE1BA2B4559FB64BC1E241035875.m3u8
+ 张二爷Navira,https://kumilist.obs22.top/4FA1FD923516F5528C8C15BF69D967E4.m3u8
+果儿Victoria,https://kumilist.obs22.top/1FD0745ABC570410E0B71F5CA1EA76A0.m3u8
+琪琪Regina,https://kumilist.obs22.top/CB15041F92FA3BC9800AE0778208BA1A.m3u8
+果儿Victoria,https://kumilist.obs22.top/7740E24D58F7065A2B7BC2E9602BA2E3.m3u8
+果儿Victoria,https://kumilist.obs22.top/74FBA3A89343B6CA893B407508533972.m3u8
+琪琪Regina,https://kumilist.obs22.top/2CC29F58B453B6277F3C4DD60746AA58.m3u8
+ 张二爷Navira,https://kumilist.obs22.top/D8AA61F64EF5665F2D0B52760353C8DE.m3u8
+ SOLO-尹菲,https://kumilist.obs22.top/6963E85867EFAF6CC53432CC1FF9C404.m3u8
+ 琪琪Regina,https://kumilist.obs22.top/A959EA530C2FBC14D736C4898DA2172F.m3u8
+SOLO-尹菲,https://kumilist.obs22.top/5549A58211EC9C7F27F979BB9B439601.m3u8
+ 张雨萌,https://kumilist.obs22.top/AAA707F733D6329278840F8E89B238D0.m3u8
+小尤奈,https://kumilist.obs22.top/BADC5490AB3C2649427456A262DC7CCF.m3u8
+琪琪Regina,https://kumilist.obs22.top/F9C4B1DD3044176137426DA2286D5B47.m3u8
+ SOLO-尹菲,https://kumilist.obs22.top/040040B5BE0CF013C7BFBC7B07C424BE.m3u8
+夏小小,https://kumilist.obs22.top/6FFDBBD74A1B73757833FA38C3644E57.m3u8
+小楠小夜猫,https://kumilist.obs22.top/28DB02A220235EB5887000A2E849DD28.m3u8
+ 果儿Victoria,https://kumilist.obs22.top/B460D344373AE468527911A90EFDCE39.m3u8
+黄花,https://kumilist.obs22.top/80F94562D7A6F2AFEBC8860EF0A09863.m3u8
+林晓晓,https://kumilist.obs22.top/F5FF714BC0D13A075428CAABF419E063.m3u8
+丝袜合集,https://kumilist.obs22.top/EBEB389E9C44362D19E8205E776BD15E.m3u8
+ 萌琪琪Irene,https://kumilist.obs22.top/48D2C4563EB7C187F1ECBF5369642AA6.m3u8
+土肥圆矮挫穷,https://kumilist.obs22.top/3F8B065FD8B02926C5611BC94CB1420A.m3u8
+小文,https://kumilist.obs22.top/F9564956E85B57496EAFDDC7008F024A.m3u8
+林茜茜,https://kumilist.obs22.top/4BF33C26FA5E3EF2FFFDF8E0A9452BC2.m3u8
+ 梦小楠,https://kumilist.obs22.top/7F5EB5274CE190B13965456DB1E81F01.m3u8
+水中美女,https://kumilist.obs22.top/EC77261C55D7EA19BC1FE45D886D07D5.m3u8
+童颜巨乳 李可可,https://kumilist.obs22.top/1EA01A9AB8E2BCCB152ADA5FB82ABBD9.m3u8
+轻轻思语 佘贝拉bella,https://kumilist.obs22.top/A14D9DA44BCD480A60E3DD93EF342F62.m3u8
+海风吹佛 王馨瑶yanni,https://kumilist.obs22.top/E57C2ACA54CCA99BF45B22C9C455C30D.m3u8
+炎炎夏日 夏瑶baby,https://kumilist.obs22.top/214F8D0DE14F48A4FB08FAF791A30AA9.m3u8
+高贵傲人 傲娇萌萌Vivian,https://kumilist.obs22.top/5154ED966800EA8A1BC7184F19781ED3.m3u8
+肉丝翘臀 曲佑熙Baby,https://kumilist.obs22.top/B70354E575AAAFE2A404526F840B2F14.m3u8
+高挑美乳 李梓熙,https://kumilist.obs22.top/AC2E5AFD29DD4E5E974D18EA04F5C730.m3u8
+肥臀巨乳 王俪丁,https://kumilist.obs22.top/C8C4A68011957AC8DD1A357634F57B9B.m3u8
+君子好逑 卓君,https://kumilist.obs22.top/90BC833AA7BB45E0020142E4BB48FE3D.m3u8
+情趣黑丝艾小青,https://kumilist.obs22.top/F6AFC29561E5DAF5901C415D1E613DFF.m3u8
+编制你的梦 夏梦,https://kumilist.obs22.top/16755CA0AE57C00530B9DC8F5CFF6335.m3u8
+委婉伊人嘉依MOON,https://kumilist.obs22.top/548A0AEF851C312E690D451183F9FA6B.m3u8
+女仆诱惑 小九月,https://kumilist.obs22.top/A7379051D788C4603063597CD3F4F645.m3u8
+比基尼秀夏雨荷,https://kumilist.obs22.top/9FC10325C036BB786C4C7A481203CFA1.m3u8
+丰满柔情 黄楽然,https://kumilist.obs22.top/95B30B7113337DCB87995965F3578CA4.m3u8
+山清水秀王雨纯,https://kumilist.obs22.top/D4576C8B45DC0EE4A841F38D1FAE8179.m3u8
+短裙炫酷艾小青,https://kumilist.obs22.top/A459E0B46B91D92D7446466B321D9809.m3u8
+丝袜美臀小姿,https://kumilist.obs22.top/54257ED0CBB40636CB3DE5B83F337BA6.m3u8
+美乳OL欣欣,https://kumilist.obs22.top/484D6FEDBDC463DB934794DD885DDAC0.m3u8
+美女香车 黄楽然,https://kumilist.obs22.top/ADDE67DA10F61ED310E3D5B12CE8DDA9.m3u8
+爱丽莎baby,https://kumilist.obs22.top/43FD4B350B69A4653ABAA16F0BEFB6CA.m3u8
+黑丝美腿 温心怡,https://kumilist.obs22.top/4D41BBCFD677D695B68F70C56AF1239A.m3u8
+白丝透明装 小九月,https://kumilist.obs22.top/42F74ABAD1DA91FBDC8DD45DC4D1F5E0.m3u8
+小兔装温心怡,https://kumilist.obs22.top/EBBBA6CDE0FA6EDBE15D9347842B5CE9.m3u8
+情趣宾馆 温心怡,https://kumilist.obs22.top/4845EDB03DA401B9904D044D2834C95D.m3u8
+陈亦菲,https://kumilist.obs22.top/C94299D8E1BF423A6F51A1D42B8E32B6.m3u8
+艾小青,https://kumilist.obs22.top/1BAB3615DFBEAED6ED8C47F4D74D45D4.m3u8
+骑斑马的萌汉药baby,https://kumilist.obs22.top/B274443AC34242028FEBAF3766AC25B9.m3u8
+透视装黄楽然,https://kumilist.obs22.top/97AD01194B932D6895BB1077EFCF6667.m3u8
+泳装 小夕Kitty,https://kumilist.obs22.top/DD03AAA384E5D773B2870984612618C8.m3u8
+白丝小九月,https://kumilist.obs22.top/EDFFFB3D8D61D6B4938B02C5F2EA0059.m3u8
+小九月,https://kumilist.obs22.top/E56969EA29798CA763C7E0ECE5A2FBFC.m3u8
+房间里的温心怡,https://kumilist.obs22.top/A35CB9DC4D91665FA8065AD5123AF48C.m3u8
+温心怡,https://kumilist.obs22.top/62EF1299C1D0245AE003BC89F43EC9C9.m3u8
+白领晓梦may,https://kumilist.obs22.top/D2DF4915BD1C1FFED39190F27A02706A.m3u8
+豪乳雨轩,https://kumilist.obs22.top/253C18B580B6A27A76052D7822A45480.m3u8
+ 徐微微mia,https://kumilist.obs22.top/0AF3FD6AB793A679A7195846C4F30FFD.m3u8
+ 陈宇曦niki,https://kumilist.obs22.top/C7400B707AB0DCD5CD0B0CC352A3D97E.m3u8
+美丽的花蕊,https://kumilist.obs22.top/33556B1728729A2B3AF4A4E50297D2B4.m3u8
+黑丝网 晓梦may,https://kumilist.obs22.top/E216063AC6962A32CDED92F7A6BA58D6.m3u8
+粉嫩少女,https://kumilist.obs22.top/3632F417F8F0BF87AF917937968C4A90.m3u8
+黑丝翘臀,https://kumilist.obs22.top/D675C4047DF72C49F51CAE75D651030F.m3u8
+蓝丝情趣写真,https://kumilist.obs22.top/9A8C96D625063240B61795A2C1205D22.m3u8
+ 严佳丽,https://kumilist.obs22.top/9B88A18C30EA2D56F24679D10F5C0A63.m3u8
+ 郭忆然,https://kumilist.obs22.top/3F9E048F368EC1AAB4636667D9396C77.m3u8
+ 大尺度宋-KiK,https://kumilist.obs22.top/EDC25532D29FF2C5749D74CFCD3809BF.m3u8
+粉蝴蝶,https://kumilist.obs22.top/51DE014B86323626E98C62714AEACF48.m3u8
+小巧美埡,https://kumilist.obs22.top/96FE3FC28E41A42ADB325B5A53FCF6A0.m3u8
+高贵美女黑丝情趣写真,https://kumilist.obs22.top/B94B274C2AE073519C72EEB244BE96AB.m3u8
+栗子Riz,https://kumilist.obs22.top/10955955E78AB26ADA27F846B4D944DA.m3u8
+ 白子嫣nicky,https://kumilist.obs22.top/25A494F5F1A87CF6D3650694B48C6BBC.m3u8
+韩秀冉,https://kumilist.obs22.top/70CA0C3E5389FF6B2D27DD8A630406ED.m3u8
+绮里嘉,https://kumilist.obs22.top/D1CB0AECA2C44F7EA66E34D0FA8936A6.m3u8
+ 包子,https://kumilist.obs22.top/854EAD128DA427686BB0ECB57DC4E123.m3u8
+ 柳侑绮,https://kumilist.obs22.top/EE986091D321122B6D56F6D02DF52640.m3u8
+刘飞儿,https://kumilist.obs22.top/A58F93C2C9716B5AF66EDB9D3E928CBE.m3u8
+玛鲁娜,https://kumilist.obs22.top/C1C676455992C8AFF5E09193A35AE40A.m3u8
+杉原杏璃高清写真3,https://kumilist.obs22.top/5C710C02D36FD4297AC44E2ED19881FA.m3u8
+西西黑丝写真诱惑,https://kumilist.obs22.top/29668F573A06D1974080F81655D0AEB9.m3u8
+杉原杏璃高清写真2,https://kumilist.obs22.top/EB86AD455F88D65EA1B1AC3F9D13F0DA.m3u8
+杉原杏璃高清写真,https://kumilist.obs22.top/D75EA8A599768AE5502299D46E17B44F.m3u8
+广州18岁嫩模 雷人性感的T裤粉嫩的躯体,https://kumilist.obs22.top/24B7E2E966392B24C9144A1BE8069B91.m3u8
+精彩诱惑写真lina,https://kumilist.obs22.top/7C2E7C72174EB8D2E0A81A8931E5B00B.m3u8
+Lvcha精彩写真,https://kumilist.obs22.top/08B1FD674BA44BB6651A675BB0D7697C.m3u8
+女仆诱惑 小九月,https://kumilist.obs22.top/A7379051D788C4603063597CD3F4F645.m3u8
+萌琪琪Irene,https://kumilist.obs22.top/12FF3851A470FDDCFF05966376DEA4F6.m3u8
+超甜美的美女,https://kumilist.obs22.top/CDC729106D474B4FC633241E7AD8989C.m3u8
+黄小雅,https://kumilist.obs22.top/CE8FE0B94621B7500D2360FE9E93A571.m3u8
+美乳OL欣欣,https://kumilist.obs22.top/484D6FEDBDC463DB934794DD885DDAC0.m3u8
+ 宝宝兔宝宝,https://kumilist.obs22.top/6EDB26917087FC9EBAC89A6D27DFD704.m3u8
+悠米合集,https://kumilist.obs22.top/5814EF9DC01D7FF36DED519E4B2D5DBA.m3u8
+悠米yomi,https://kumilist.obs22.top/419CFECF208F3CA6244FDF6FF4227FCD.m3u8
+六月合集,https://kumilist.obs22.top/C329EDA0D71E6FA471A928C27680F938.m3u8
+编制你的梦 夏梦,https://kumilist.obs22.top/16755CA0AE57C00530B9DC8F5CFF6335.m3u8
+ Egg_尤妮丝,https://kumilist.obs22.top/A56E1E4AF2FD162C77D93BFF16835F88.m3u8
+水中美女,https://kumilist.obs22.top/EC77261C55D7EA19BC1FE45D886D07D5.m3u8
+childe三秋,https://kumilist.obs22.top/E54D4A3C437106CBFA6CAE619767DC66.m3u8
+童颜巨乳 李可可,https://kumilist.obs22.top/1EA01A9AB8E2BCCB152ADA5FB82ABBD9.m3u8
+范范合集,https://kumilist.obs22.top/3AFDE0F7EFAFE7C82401F3A36093B682.m3u8
+千叶合集,https://kumilist.obs22.top/6142ADE7EF9963D10688057AE7BC677D.m3u8
+肉丝翘臀 曲佑熙Baby,https://kumilist.obs22.top/B70354E575AAAFE2A404526F840B2F14.m3u8
+委婉伊人嘉依MOON,https://kumilist.obs22.top/548A0AEF851C312E690D451183F9FA6B.m3u8
+ Egg_尤妮丝,https://kumilist.obs22.top/EA8CED7B0110DF39C72A9C4CDA088E95.m3u8
+比基尼秀夏雨荷,https://kumilist.obs22.top/9FC10325C036BB786C4C7A481203CFA1.m3u8
+猫米合集,https://kumilist.obs22.top/B0EF55DC6CD8BF16B4B0F9F69CD37A76.m3u8
+秦小玉,https://kumilist.obs22.top/F9C235C94B7A60AEFE95F44CEDCD48A9.m3u8
+丰满柔情 黄楽然,https://kumilist.obs22.top/95B30B7113337DCB87995965F3578CA4.m3u8
+ SOLO-尹菲,https://kumilist.obs22.top/4323F03D9D2A29A80EA722BACEE84273.m3u8
+美女香车 黄楽然,https://kumilist.obs22.top/ADDE67DA10F61ED310E3D5B12CE8DDA9.m3u8
+炎炎夏日 夏瑶baby,https://kumilist.obs22.top/214F8D0DE14F48A4FB08FAF791A30AA9.m3u8
+短裙炫酷艾小青,https://kumilist.obs22.top/A459E0B46B91D92D7446466B321D9809.m3u8
+紫嫣合集,https://kumilist.obs22.top/0063BB8ACCD4044D9F5563BE627E32E0.m3u8
+王丽丽 合集,https://kumilist.obs22.top/2FE41C24118C747CD4C54CC1244F7B64.m3u8
+情趣黑丝艾小青,https://kumilist.obs22.top/F6AFC29561E5DAF5901C415D1E613DFF.m3u8
+高贵傲人 傲娇萌萌Vivian,https://kumilist.obs22.top/5154ED966800EA8A1BC7184F19781ED3.m3u8
+琪琪Regina,https://kumilist.obs22.top/F9C4B1DD3044176137426DA2286D5B47.m3u8
+山清水秀王雨纯,https://kumilist.obs22.top/D4576C8B45DC0EE4A841F38D1FAE8179.m3u8
+ 梦小楠,https://kumilist.obs22.top/7F5EB5274CE190B13965456DB1E81F01.m3u8
+慕羽茜,https://kumilist.obs22.top/8C227CAA73FFCB70642191744F65D2E5.m3u8
+丝袜合集,https://kumilist.obs22.top/EBEB389E9C44362D19E8205E776BD15E.m3u8
+咪咪,https://kumilist.obs22.top/BBFD0456A70AAECDB2F35E8582319060.m3u8
+丝袜美臀小姿,https://kumilist.obs22.top/54257ED0CBB40636CB3DE5B83F337BA6.m3u8
+琪琪Regina,https://kumilist.obs22.top/2CC29F58B453B6277F3C4DD60746AA58.m3u8
+ SOLO-尹菲,https://kumilist.obs22.top/6963E85867EFAF6CC53432CC1FF9C404.m3u8
+杉原杏璃高清写真2,https://kumilist.obs22.top/EB86AD455F88D65EA1B1AC3F9D13F0DA.m3u8
+ 萌琪琪Irene,https://kumilist.obs22.top/48D2C4563EB7C187F1ECBF5369642AA6.m3u8
+喵莫儿,https://kumilist.obs22.top/50E87F42E6F40FFFAFAC08A8AB0901BB.m3u8
+肥臀巨乳 王俪丁,https://kumilist.obs22.top/C8C4A68011957AC8DD1A357634F57B9B.m3u8
+海风吹佛 王馨瑶yanni,https://kumilist.obs22.top/E57C2ACA54CCA99BF45B22C9C455C30D.m3u8
+高挑美乳 李梓熙,https://kumilist.obs22.top/AC2E5AFD29DD4E5E974D18EA04F5C730.m3u8
+冯木木LRIS,https://kumilist.obs22.top/9805E33A9E5F2F29B04C5EC5CDB5D54B.m3u8
+轻轻思语 佘贝拉bella,https://kumilist.obs22.top/A14D9DA44BCD480A60E3DD93EF342F62.m3u8
+ 张雨萌,https://kumilist.obs22.top/AAA707F733D6329278840F8E89B238D0.m3u8
+ SOLO-尹菲,https://kumilist.obs22.top/040040B5BE0CF013C7BFBC7B07C424BE.m3u8
+杉原杏璃高清写真,https://kumilist.obs22.top/D75EA8A599768AE5502299D46E17B44F.m3u8
+ Egg_尤妮丝,https://kumilist.obs22.top/E63CA89295378A68D621B103D8186546.m3u8
+黄花,https://kumilist.obs22.top/80F94562D7A6F2AFEBC8860EF0A09863.m3u8
+米奇 合集,https://kumilist.obs22.top/24B4EAC7BB6883C20630D13381D9602E.m3u8
+果儿Victoria,https://kumilist.obs22.top/74FBA3A89343B6CA893B407508533972.m3u8
+ 张雨萌,https://kumilist.obs22.top/833DBE1BA2B4559FB64BC1E241035875.m3u8
+ 白子嫣nicky,https://kumilist.obs22.top/25A494F5F1A87CF6D3650694B48C6BBC.m3u8
+ 琪琪Regina,https://kumilist.obs22.top/07A53957852EF681FD17E0F659B827A2.m3u8
+白领晓梦may,https://kumilist.obs22.top/D2DF4915BD1C1FFED39190F27A02706A.m3u8
+君子好逑 卓君,https://kumilist.obs22.top/90BC833AA7BB45E0020142E4BB48FE3D.m3u8
+朱莉合集,https://kumilist.obs22.top/2A795E7F38134ABB9AB6939C76F4BE46.m3u8
+琪琪Regina,https://kumilist.obs22.top/CB15041F92FA3BC9800AE0778208BA1A.m3u8
+ 包子,https://kumilist.obs22.top/854EAD128DA427686BB0ECB57DC4E123.m3u8
+ 琪琪Regina,https://kumilist.obs22.top/A959EA530C2FBC14D736C4898DA2172F.m3u8
+阳阳合集,https://kumilist.obs22.top/D94882D45253D848C0D17D4734F55CE4.m3u8
+果儿Victoria,https://kumilist.obs22.top/76816815336228E445677F9CD6648E20.m3u8
+ 柳侑绮,https://kumilist.obs22.top/EE986091D321122B6D56F6D02DF52640.m3u8
+sunny合集,https://kumilist.obs22.top/C47BC192432C2505AD14DC4C458663CC.m3u8
+SOLO-尹菲,https://kumilist.obs22.top/5549A58211EC9C7F27F979BB9B439601.m3u8
+骑斑马的萌汉药baby,https://kumilist.obs22.top/B274443AC34242028FEBAF3766AC25B9.m3u8
+韩秀冉,https://kumilist.obs22.top/70CA0C3E5389FF6B2D27DD8A630406ED.m3u8
+萌琪琪Irene,https://kumilist.obs22.top/9C60C9E1B9BC721DE7B37291306AC7D4.m3u8
+ 悠米yomi,https://kumilist.obs22.top/BD015FBD4434FE7F7B3E2FF2809DD3D8.m3u8
+小鹿合集,https://kumilist.obs22.top/04095DB43B13987CA5876CE36C9E5BEA.m3u8
+情趣宾馆 温心怡,https://kumilist.obs22.top/4845EDB03DA401B9904D044D2834C95D.m3u8
+美丽的花蕊,https://kumilist.obs22.top/33556B1728729A2B3AF4A4E50297D2B4.m3u8
+精彩诱惑写真lina,https://kumilist.obs22.top/7C2E7C72174EB8D2E0A81A8931E5B00B.m3u8
+ G干干,https://kumilist.obs22.top/DCF761EBAF30D4353F87D0FD6DB897D7.m3u8
+白丝小九月,https://kumilist.obs22.top/EDFFFB3D8D61D6B4938B02C5F2EA0059.m3u8
+ 大尺度宋-KiK,https://kumilist.obs22.top/EDC25532D29FF2C5749D74CFCD3809BF.m3u8
+粉蝴蝶,https://kumilist.obs22.top/51DE014B86323626E98C62714AEACF48.m3u8
+小兔装温心怡,https://kumilist.obs22.top/EBBBA6CDE0FA6EDBE15D9347842B5CE9.m3u8
+蓝丝情趣写真,https://kumilist.obs22.top/9A8C96D625063240B61795A2C1205D22.m3u8
+广州18岁嫩模 雷人性感的T裤粉嫩的躯体,https://kumilist.obs22.top/24B7E2E966392B24C9144A1BE8069B91.m3u8
+ 果儿Victoria,https://kumilist.obs22.top/B460D344373AE468527911A90EFDCE39.m3u8
+粉嫩少女,https://kumilist.obs22.top/3632F417F8F0BF87AF917937968C4A90.m3u8
+林晓晓,https://kumilist.obs22.top/F5FF714BC0D13A075428CAABF419E063.m3u8
+ 赵小米Kitty,https://kumilist.obs22.top/195EC76DC99BAF30CFB8BABEEEDC2B89.m3u8
+夏小小,https://kumilist.obs22.top/6FFDBBD74A1B73757833FA38C3644E57.m3u8
+咪咪 合集,https://kumilist.obs22.top/1C2ABEC57D67A953D7D6CCEEFADC992D.m3u8
+千帆 合集,https://kumilist.obs22.top/89851061284E055B6B77AA7CAE24CC17.m3u8
+豪乳雨轩,https://kumilist.obs22.top/253C18B580B6A27A76052D7822A45480.m3u8
+透视装黄楽然,https://kumilist.obs22.top/97AD01194B932D6895BB1077EFCF6667.m3u8
+白丝透明装 小九月,https://kumilist.obs22.top/42F74ABAD1DA91FBDC8DD45DC4D1F5E0.m3u8
+爱丽莎baby,https://kumilist.obs22.top/43FD4B350B69A4653ABAA16F0BEFB6CA.m3u8
+ 郭忆然,https://kumilist.obs22.top/3F9E048F368EC1AAB4636667D9396C77.m3u8
+小九月,https://kumilist.obs22.top/E56969EA29798CA763C7E0ECE5A2FBFC.m3u8
+ 慕羽茜,https://kumilist.obs22.top/5BCFF28E97173A9C47E81C3645FF84B1.m3u8
+玛鲁娜,https://kumilist.obs22.top/C1C676455992C8AFF5E09193A35AE40A.m3u8
+尤妮丝,https://kumilist.obs22.top/C1062DBD21B171BC02363F4AFC5E6EB4.m3u8
+刘飞儿,https://kumilist.obs22.top/A58F93C2C9716B5AF66EDB9D3E928CBE.m3u8
+土肥圆矮挫穷,https://kumilist.obs22.top/3F8B065FD8B02926C5611BC94CB1420A.m3u8
+西西黑丝写真诱惑,https://kumilist.obs22.top/29668F573A06D1974080F81655D0AEB9.m3u8
+funny 合集,https://kumilist.obs22.top/14F4717CBE151F2F2E04BB5AD20CEBBF.m3u8
+ 琪琪Regina,https://kumilist.obs22.top/3762FD42FE1318FE2CC19DF660AD22B5.m3u8
+艾小青,https://kumilist.obs22.top/1BAB3615DFBEAED6ED8C47F4D74D45D4.m3u8
+杉原杏璃高清写真3,https://kumilist.obs22.top/5C710C02D36FD4297AC44E2ED19881FA.m3u8
+黑丝网 晓梦may,https://kumilist.obs22.top/E216063AC6962A32CDED92F7A6BA58D6.m3u8
+高贵美女黑丝情趣写真,https://kumilist.obs22.top/B94B274C2AE073519C72EEB244BE96AB.m3u8
+ 徐微微mia,https://kumilist.obs22.top/0AF3FD6AB793A679A7195846C4F30FFD.m3u8
+ childe三秋,https://kumilist.obs22.top/30D50614BF54CBDA9F1FB63E6431F699.m3u8
+栗子Riz,https://kumilist.obs22.top/10955955E78AB26ADA27F846B4D944DA.m3u8
+慕羽茜,https://kumilist.obs22.top/9195175A9D734AA0BC9158877E4B0EBD.m3u8
+黑丝翘臀,https://kumilist.obs22.top/D675C4047DF72C49F51CAE75D651030F.m3u8
+ 芘馬,https://kumilist.obs22.top/779CE964706A0556EE48EB1F2E54CD9A.m3u8
+小尤奈,https://kumilist.obs22.top/BADC5490AB3C2649427456A262DC7CCF.m3u8
+ 模特合集,https://kumilist.obs22.top/CE9FA8F8C9E3C621D553A79C0349F066.m3u8
+雯雯合集,https://kumilist.obs22.top/0845A16B9222604A5FB9D45B50FE5A77.m3u8
+ 于姬Una,https://kumilist.obs22.top/8ADF66B3C854046CAA75AED4E27F3888.m3u8
+陈亦菲,https://kumilist.obs22.top/C94299D8E1BF423A6F51A1D42B8E32B6.m3u8
+林茜茜,https://kumilist.obs22.top/4BF33C26FA5E3EF2FFFDF8E0A9452BC2.m3u8
+黑丝美腿 温心怡,https://kumilist.obs22.top/4D41BBCFD677D695B68F70C56AF1239A.m3u8
+ 陈宇曦niki,https://kumilist.obs22.top/C7400B707AB0DCD5CD0B0CC352A3D97E.m3u8
+ 梦小楠小夜猫,https://kumilist.obs22.top/13C1A317011FC28D9F28D2E2B9C8676B.m3u8
+绮里嘉,https://kumilist.obs22.top/D1CB0AECA2C44F7EA66E34D0FA8936A6.m3u8
+小楠小夜猫,https://kumilist.obs22.top/28DB02A220235EB5887000A2E849DD28.m3u8
+苏可尔,https://kumilist.obs22.top/2E1107CEC064C0D01E18C55971E9EF58.m3u8
+ 严佳丽,https://kumilist.obs22.top/9B88A18C30EA2D56F24679D10F5C0A63.m3u8
+小文,https://kumilist.obs22.top/F9564956E85B57496EAFDDC7008F024A.m3u8
+房间里的温心怡,https://kumilist.obs22.top/A35CB9DC4D91665FA8065AD5123AF48C.m3u8
+楚楚 ,https://kumilist.obs22.top/5CA35FA9D214A69E4821C736E7FF2071.m3u8
+ 张二爷Navira,https://kumilist.obs22.top/4FA1FD923516F5528C8C15BF69D967E4.m3u8
+泳装 小夕Kitty,https://kumilist.obs22.top/DD03AAA384E5D773B2870984612618C8.m3u8
+ SOLO-尹菲,https://kumilist.obs22.top/84429CBC6278E5B54D643C3BC8368B87.m3u8
+ 张二爷Navira,https://kumilist.obs22.top/D8AA61F64EF5665F2D0B52760353C8DE.m3u8
+温心怡,https://kumilist.obs22.top/62EF1299C1D0245AE003BC89F43EC9C9.m3u8
+果儿Victoria,https://kumilist.obs22.top/7740E24D58F7065A2B7BC2E9602BA2E3.m3u8
+梦小楠小夜猫,https://kumilist.obs22.top/2D56D7601AEB43E21703A8E9FAF3BEA7.m3u8
+果儿Victoria,https://kumilist.obs22.top/1FD0745ABC570410E0B71F5CA1EA76A0.m3u8
+ 苏可er,https://kumilist.obs22.top/DE0D8B7B9C80406CB2B08096C1B18549.m3u8
+Lvcha精彩写真,https://kumilist.obs22.top/08B1FD674BA44BB6651A675BB0D7697C.m3u8
+小巧美埡,https://kumilist.obs22.top/96FE3FC28E41A42ADB325B5A53FCF6A0.m3u8
